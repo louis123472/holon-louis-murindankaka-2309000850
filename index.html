@@ -1,0 +1,2835 @@
+
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v24.8 (Yoast SEO v24.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>University of Kigali - Your Gateway to Excellence and Innovation!</title>
+<link rel="preload" as="font" href="https://uok.ac.rw/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2" crossorigin><link rel="preload" data-rocket-preload as="image" href="https://uok.ac.rw/wp-content/uploads/2025/01/Welcome-aboard-We-cant-wait-to-see-all-that-youll-achieve-with-us.1-1.png" fetchpriority="high">
+	<meta name="description" content="At, UoK you can choose from our wide range of industry-relevant and globally recognised and academic professional programmes." />
+	<link rel="canonical" href="https://uok.ac.rw/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home" />
+	<meta property="og:description" content="At, UoK you can choose from our wide range of industry-relevant and globally recognised and academic professional programmes." />
+	<meta property="og:url" content="https://uok.ac.rw/" />
+	<meta property="og:site_name" content="University of Kigali" />
+	<meta property="article:publisher" content="https://www.facebook.com/universityofkigaliUOK" />
+	<meta property="article:modified_time" content="2025-04-10T16:25:48+00:00" />
+	<meta property="og:image" content="https://uok.ac.rw/wp-content/uploads/2025/01/Welcome-aboard-We-cant-wait-to-see-all-that-youll-achieve-with-us.1-1.png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@UnivOfKigali" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://uok.ac.rw/","url":"https://uok.ac.rw/","name":"University of Kigali - Your Gateway to Excellence and Innovation!","isPartOf":{"@id":"https://uok.ac.rw/#website"},"about":{"@id":"https://uok.ac.rw/#organization"},"primaryImageOfPage":{"@id":"https://uok.ac.rw/#primaryimage"},"image":{"@id":"https://uok.ac.rw/#primaryimage"},"thumbnailUrl":"https://uok.ac.rw/wp-content/uploads/2025/01/Welcome-aboard-We-cant-wait-to-see-all-that-youll-achieve-with-us.1-1.png","datePublished":"2024-06-06T05:17:38+00:00","dateModified":"2025-04-10T16:25:48+00:00","description":"At, UoK you can choose from our wide range of industry-relevant and globally recognised and academic professional programmes.","breadcrumb":{"@id":"https://uok.ac.rw/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://uok.ac.rw/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://uok.ac.rw/#primaryimage","url":"https://uok.ac.rw/wp-content/uploads/2025/01/Welcome-aboard-We-cant-wait-to-see-all-that-youll-achieve-with-us.1-1.png","contentUrl":"https://uok.ac.rw/wp-content/uploads/2025/01/Welcome-aboard-We-cant-wait-to-see-all-that-youll-achieve-with-us.1-1.png","width":1720,"height":800},{"@type":"BreadcrumbList","@id":"https://uok.ac.rw/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://uok.ac.rw/#website","url":"https://uok.ac.rw/","name":"University of Kigali","description":"Gateway to Excellence and Innovation","publisher":{"@id":"https://uok.ac.rw/#organization"},"alternateName":"UoK","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://uok.ac.rw/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://uok.ac.rw/#organization","name":"University of Kigali","alternateName":"UoK","url":"https://uok.ac.rw/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://uok.ac.rw/#/schema/logo/image/","url":"https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908.png","contentUrl":"https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908.png","width":1886,"height":644,"caption":"University of Kigali"},"image":{"@id":"https://uok.ac.rw/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/universityofkigaliUOK","https://x.com/UnivOfKigali","https://www.linkedin.com/school/university-of-kigali/mycompany/","https://www.instagram.com/univ_of_kigali/","https://www.youtube.com/@universityofkigali-uok7543"],"email":"info@uok.ac.rw","telephone":"+250788303386"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="University of Kigali &raquo; Feed" href="https://uok.ac.rw/feed/" />
+<link rel="alternate" type="application/rss+xml" title="University of Kigali &raquo; Comments Feed" href="https://uok.ac.rw/comments/feed/" />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='jet-engine-frontend-css' href='https://uok.ac.rw/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.6.6' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hello-elementor-css' href='https://uok.ac.rw/wp-content/themes/hello-elementor/style.min.css?ver=3.1.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://uok.ac.rw/wp-content/themes/hello-elementor/theme.min.css?ver=3.1.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://uok.ac.rw/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.1.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='elementor-post-8-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-8.css?ver=1743699374' media='all' />
+<link rel='stylesheet' id='jet-menu-public-styles-css' href='https://uok.ac.rw/wp-content/plugins/jet-menu/assets/public/css/public.css?ver=2.4.9.1' media='all' />
+<link rel='stylesheet' id='jet-popup-frontend-css' href='https://uok.ac.rw/wp-content/plugins/jet-popup/assets/css/jet-popup-frontend.css?ver=2.0.12' media='all' />
+<link rel='stylesheet' id='jet-theme-core-frontend-styles-css' href='https://uok.ac.rw/wp-content/plugins/jet-theme-core/assets/css/frontend.css?ver=2.3.0' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='jet-elements-css' href='https://uok.ac.rw/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.7.5' media='all' />
+<link rel='stylesheet' id='jet-subscribe-form-css' href='https://uok.ac.rw/wp-content/plugins/jet-elements/assets/css/addons/jet-subscribe-form.css?ver=2.7.5' media='all' />
+<link rel='stylesheet' id='jet-subscribe-form-skin-css' href='https://uok.ac.rw/wp-content/plugins/jet-elements/assets/css/skin/jet-subscribe-form.css?ver=2.7.5' media='all' />
+<link rel='stylesheet' id='jet-tabs-frontend-css' href='https://uok.ac.rw/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.2.8' media='all' />
+<link rel='stylesheet' id='jet-slider-pro-css-css' href='https://uok.ac.rw/wp-content/plugins/jet-elements/assets/css/lib/slider-pro/slider-pro.min.css?ver=1.3.0' media='all' />
+<link rel='stylesheet' id='jet-slider-css' href='https://uok.ac.rw/wp-content/plugins/jet-elements/assets/css/addons/jet-slider.css?ver=2.7.5' media='all' />
+<link rel='stylesheet' id='jet-slider-skin-css' href='https://uok.ac.rw/wp-content/plugins/jet-elements/assets/css/skin/jet-slider.css?ver=2.7.5' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='widget-nested-carousel-css' href='https://uok.ac.rw/wp-content/plugins/elementor-pro/assets/css/widget-nested-carousel.min.css?ver=3.28.2' media='all' />
+<link rel='stylesheet' id='jet-table-css' href='https://uok.ac.rw/wp-content/plugins/jet-elements/assets/css/addons/jet-table.css?ver=2.7.5' media='all' />
+<link rel='stylesheet' id='widget-loop-common-css' href='https://uok.ac.rw/wp-content/plugins/elementor-pro/assets/css/widget-loop-common.min.css?ver=3.28.2' media='all' />
+<link rel='stylesheet' id='widget-loop-grid-css' href='https://uok.ac.rw/wp-content/plugins/elementor-pro/assets/css/widget-loop-grid.min.css?ver=3.28.2' media='all' />
+<link rel='stylesheet' id='widget-nested-tabs-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/css/widget-nested-tabs.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='widget-testimonial-carousel-css' href='https://uok.ac.rw/wp-content/plugins/elementor-pro/assets/css/widget-testimonial-carousel.min.css?ver=3.28.2' media='all' />
+<link rel='stylesheet' id='widget-carousel-module-base-css' href='https://uok.ac.rw/wp-content/plugins/elementor-pro/assets/css/widget-carousel-module-base.min.css?ver=3.28.2' media='all' />
+<link rel='stylesheet' id='widget-video-css' href='https://uok.ac.rw/wp-content/plugins/elementor/assets/css/widget-video.min.css?ver=3.28.3' media='all' />
+<link rel='stylesheet' id='elementor-post-17-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-17.css?ver=1744302351' media='all' />
+<link rel='stylesheet' id='elementor-post-14-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-14.css?ver=1743699374' media='all' />
+<link rel='stylesheet' id='elementor-post-1031-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-1031.css?ver=1743699374' media='all' />
+<link rel='stylesheet' id='qcld-wp-chatbot-common-style-css' href='https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/css/common-style.css?ver=13.5.7' media='screen' />
+<style id='qcld-wp-chatbot-common-style-inline-css'>
+.wp-chatbot-notification-close{ background-color: #70142E; } .fa{ color: #70142E; }.wp-chatbot-ball{
+                background: #fff !important;
+            }
+            .wp-chatbot-ball:hover, .wp-chatbot-ball:focus{
+                background: #fff !important;
+            }
+            .qc_wpbot_floating_main{
+                background-color: #fff !important;
+            }
+            .qc_wpbot_floating_main:hover, .qc_wpbot_floating_main:focus{
+                background-color: #fff !important;
+            }
+            
+</style>
+<link rel='stylesheet' id='qcld-wp-chatbot-magnifict-qcpopup-css-css' href='https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/css/magnific-popup.css?ver=13.5.7' media='screen' />
+<link rel='stylesheet' id='qlcd-wp-chatbot-font-awe-css' href='https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/css/font-awesome.min.css?ver=13.5.7' media='screen' />
+<link rel='stylesheet' id='qlcd-wp-chatbot-ani-mate-css' href='https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/css/animate.css?ver=13.5.7' media='screen' />
+<link rel='stylesheet' id='jquery-chosen-css' href='https://uok.ac.rw/wp-content/plugins/jet-search/assets/lib/chosen/chosen.min.css?ver=1.8.7' media='all' />
+<link rel='stylesheet' id='jet-search-css' href='https://uok.ac.rw/wp-content/plugins/jet-search/assets/css/jet-search.css?ver=3.5.7.1' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-montserrat-css' href='https://uok.ac.rw/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1742976166' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-sourcesanspro-css' href='https://uok.ac.rw/wp-content/uploads/elementor/google-fonts/css/sourcesanspro.css?ver=1742976175' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-raleway-css' href='https://uok.ac.rw/wp-content/uploads/elementor/google-fonts/css/raleway.css?ver=1742976188' media='all' />
+<script src="https://uok.ac.rw/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://uok.ac.rw/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://uok.ac.rw/wp-includes/js/imagesloaded.min.js?ver=6.7.2" id="imagesLoaded-js"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script src="https://www.googletagmanager.com/gtag/js?id=GT-5MG9XBTD" id="google_gtagjs-js" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["uok.ac.rw"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-5MG9XBTD");
+</script>
+
+<!-- End Google tag (gtag.js) snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://uok.ac.rw/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://uok.ac.rw/wp-json/wp/v2/pages/17" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://uok.ac.rw/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+<link rel='shortlink' href='https://uok.ac.rw/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://uok.ac.rw/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fuok.ac.rw%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://uok.ac.rw/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fuok.ac.rw%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.149.1" /><meta name="generator" content="Elementor 3.28.3; features: e_font_icon_svg, additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908.png" />
+<meta name="msapplication-TileImage" content="https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908.png" />
+		<style id="wp-custom-css">
+			Selector .nav-item:hover{
+	text-decoration:underline;
+}
+
+selector .nav-item .elementor-icon-list-text:hover{
+    text-decoration: underline;
+}		</style>
+		<meta name="generator" content="WP Rocket 3.18.3" data-wpr-features="wpr_preload_fonts wpr_oci wpr_image_dimensions wpr_preload_links wpr_desktop" /></head>
+<body class="home page-template-default page page-id-17 wp-custom-logo jet-mega-menu-location elementor-default elementor-kit-8 elementor-page elementor-page-17">
+
+
+		<div  data-elementor-type="header" data-elementor-id="14" class="elementor elementor-14 elementor-location-header" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-69e2e47 e-con-full e-flex e-con e-parent" data-id="69e2e47" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-8e375a8 jedv-enabled--yes e-flex e-con-boxed e-con e-child" data-id="8e375a8" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ffecdfd elementor-widget elementor-widget-jet-mega-menu" data-id="ffecdfd" data-element_type="widget" data-widget_type="jet-mega-menu.default">
+				<div class="elementor-widget-container">
+					<div class="jet-mega-menu jet-mega-menu--layout-horizontal jet-mega-menu--sub-position-right jet-mega-menu--dropdown-layout-default jet-mega-menu--dropdown-position-right jet-mega-menu--animation-none jet-mega-menu--location-elementor    jet-mega-menu--fill-svg-icons" data-settings='{"menuId":"90","menuUniqId":"67fa4d43c9418","rollUp":false,"megaAjaxLoad":false,"layout":"horizontal","subEvent":"hover","mouseLeaveDelay":500,"subTrigger":"item","subPosition":"right","megaWidthType":"container","megaWidthSelector":"","breakpoint":768,"signatures":[]}'><div class="jet-mega-menu-toggle" role="button" tabindex="0" aria-label="Open/Close Menu"><div class="jet-mega-menu-toggle-icon jet-mega-menu-toggle-icon--default-state"><svg class="e-font-icon-svg e-fas-bars" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path></svg></div><div class="jet-mega-menu-toggle-icon jet-mega-menu-toggle-icon--opened-state"><svg class="e-font-icon-svg e-fas-times" viewBox="0 0 352 512" xmlns="http://www.w3.org/2000/svg"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg></div></div><nav class="jet-mega-menu-container" aria-label="Main nav"><ul class="jet-mega-menu-list"><li id="jet-mega-menu-item-4031" class="jet-mega-menu-item jet-mega-menu-item-type-custom jet-mega-menu-item-object-custom jet-mega-menu-item--default jet-mega-menu-item--top-level jet-mega-menu-item-4031"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="Student Portal"><a href="https://mis.uok.ac.rw/" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">Student Portal</div></div></a></div></li>
+<li id="jet-mega-menu-item-4032" class="jet-mega-menu-item jet-mega-menu-item-type-post_type jet-mega-menu-item-object-page jet-mega-menu-item--default jet-mega-menu-item--top-level jet-mega-menu-item-4032"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="Musanze Campus"><a href="https://uok.ac.rw/musanze-campus/" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">Musanze Campus</div></div></a></div></li>
+<li id="jet-mega-menu-item-4033" class="jet-mega-menu-item jet-mega-menu-item-type-post_type jet-mega-menu-item-object-page jet-mega-menu-item--default jet-mega-menu-item--top-level jet-mega-menu-item-4033"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="Alumni"><a href="https://uok.ac.rw/alumni/" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">Alumni</div></div></a></div></li>
+<li id="jet-mega-menu-item-4034" class="jet-mega-menu-item jet-mega-menu-item-type-post_type jet-mega-menu-item-object-page jet-mega-menu-item--default jet-mega-menu-item--top-level jet-mega-menu-item-4034"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="Our Strategic Partnerships"><a href="https://uok.ac.rw/our-strategic-partnerships/" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">Our Strategic Partnerships</div></div></a></div></li>
+</ul></nav></div>				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-023f23b e-flex e-con-boxed e-con e-child" data-id="023f23b" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-511a63e e-con-full e-flex e-con e-child" data-id="511a63e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-4b91f5b elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="4b91f5b" data-element_type="widget" data-widget_type="theme-site-logo.default">
+				<div class="elementor-widget-container">
+											<a href="https://uok.ac.rw">
+			<img fetchpriority="high" width="1886" height="644" src="https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908.png" class="attachment-full size-full wp-image-98" alt="" srcset="https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908.png 1886w, https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908-300x102.png 300w, https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908-1024x350.png 1024w, https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908-768x262.png 768w, https://uok.ac.rw/wp-content/uploads/2024/05/NEW-UoK-Logo-e1717660118908-1536x524.png 1536w" sizes="(max-width: 1886px) 100vw, 1886px" />				</a>
+											</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-7dbae53 e-con-full e-flex e-con e-child" data-id="7dbae53" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-0e4e494 elementor-widget elementor-widget-jet-mega-menu" data-id="0e4e494" data-element_type="widget" data-widget_type="jet-mega-menu.default">
+				<div class="elementor-widget-container">
+					<div class="jet-mega-menu jet-mega-menu--layout-horizontal jet-mega-menu--sub-position-right jet-mega-menu--dropdown-layout-default jet-mega-menu--dropdown-position-center jet-mega-menu--animation-fade jet-mega-menu--location-elementor    jet-mega-menu--fill-svg-icons" data-settings='{"menuId":"4","menuUniqId":"67fa4d43cc5c1","rollUp":false,"megaAjaxLoad":false,"layout":"horizontal","subEvent":"hover","mouseLeaveDelay":500,"subTrigger":"item","subPosition":"right","megaWidthType":"selector","megaWidthSelector":".elementor","breakpoint":768,"signatures":{"template_142":{"id":142,"signature":"0e8d6903e661059f1dcf7c162b3ea8ea"},"template_176":{"id":176,"signature":"2b982152a3878ba9507e3c3f384f981a"},"template_1132":{"id":1132,"signature":"f311fab09ecd4ae3c292c9a38001faf3"},"template_1672":{"id":1672,"signature":"fd7016853c2090b937a6515b63cbdcbe"},"template_1819":{"id":1819,"signature":"9f8aa8af188172189f5e9d398d8ab7e1"},"template_1415":{"id":1415,"signature":"30a5ba009698ebe639756884c44dedbd"}}}'><div class="jet-mega-menu-toggle" role="button" tabindex="0" aria-label="Open/Close Menu"><div class="jet-mega-menu-toggle-icon jet-mega-menu-toggle-icon--default-state"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16"></path></svg></div><div class="jet-mega-menu-toggle-icon jet-mega-menu-toggle-icon--opened-state"><svg class="e-font-icon-svg e-fas-times" viewBox="0 0 352 512" xmlns="http://www.w3.org/2000/svg"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg></div></div><nav class="jet-mega-menu-container" aria-label="Main nav"><ul class="jet-mega-menu-list"><li id="jet-mega-menu-item-2178" class="jet-mega-menu-item jet-mega-menu-item-type-post_type jet-mega-menu-item-object-page jet-mega-menu-item-home jet-mega-current-menu-item page_item page-item-17 current_page_item jet-mega-menu-item--default jet-mega-menu-item--top-level jet-mega-menu-item-2178"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="Home"><a href="https://uok.ac.rw/" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">Home</div></div></a></div></li>
+<li id="jet-mega-menu-item-85" class="jet-mega-menu-item jet-mega-menu-item-type-custom jet-mega-menu-item-object-custom jet-mega-menu-item--mega jet-mega-menu-item-has-children jet-mega-menu-item--top-level jet-mega-menu-item-85"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="About"><a href="#" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">About</div></div></a></div><div class="jet-mega-menu-mega-container" data-template-id="142" data-template-content="elementor" data-position="default"><div class="jet-mega-menu-mega-container__inner"><style>.elementor-142 .elementor-element.elementor-element-bad776a{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-142 .elementor-element.elementor-element-4ecce91{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.15);--padding-top:30px;--padding-bottom:30px;--padding-left:50px;--padding-right:50px;--z-index:1;}.elementor-142 .elementor-element.elementor-element-4ecce91:not(.elementor-motion-effects-element-type-background), .elementor-142 .elementor-element.elementor-element-4ecce91 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-65448af );}.elementor-142 .elementor-element.elementor-element-879cb51{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-1bad47a .elementor-heading-title{font-family:"Montserrat", Sans-serif;font-size:22px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a{background-color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a{background-color:var( --e-global-color-secondary );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav{width:100%;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-142 .elementor-element.elementor-element-0600413  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-142 .elementor-element.elementor-element-0600413 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-142 .elementor-element.elementor-element-a658937{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-142 .elementor-element.elementor-element-2cd6a71 .elementor-heading-title{font-family:"Montserrat", Sans-serif;font-size:22px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav{width:100%;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-142 .elementor-element.elementor-element-0230d31  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-142 .elementor-element.elementor-element-0230d31 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-142 .elementor-element.elementor-element-6fed608{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-142 .elementor-element.elementor-element-f9a6512 .elementor-heading-title{font-family:"Montserrat", Sans-serif;font-size:22px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav{width:100%;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-142 .elementor-element.elementor-element-21450b6  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-142 .elementor-element.elementor-element-21450b6 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}@media(min-width:768px){.elementor-142 .elementor-element.elementor-element-bad776a{--content-width:1920px;}.elementor-142 .elementor-element.elementor-element-4ecce91{--width:80%;}}@media(max-width:767px){.elementor-142 .elementor-element.elementor-element-4ecce91{--padding-top:30px;--padding-bottom:30px;--padding-left:20px;--padding-right:20px;}.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}</style>		<div data-elementor-type="wp-post" data-elementor-id="142" class="elementor elementor-142" data-elementor-post-type="jet-menu">
+				<div class="elementor-element elementor-element-bad776a e-flex e-con-boxed e-con e-parent" data-id="bad776a" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-4ecce91 e-con-full e-flex e-con e-child" data-id="4ecce91" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-879cb51 e-con-full e-flex e-con e-child" data-id="879cb51" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-1bad47a elementor-widget elementor-widget-heading" data-id="1bad47a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">About the University</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0600413 elementor-widget elementor-widget-jet-custom-menu" data-id="0600413" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-about-the-university-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-116"><a href="https://uok.ac.rw/our-story/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Our Story</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-112"><a href="https://uok.ac.rw/our-campuses/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Our Campuses</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-114"><a href="https://uok.ac.rw/facts-and-figures/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Facts and Figures</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-5539"><a href="https://uok.ac.rw/strategic-plan/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Our Strategic Pillars</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-120"><a href="https://uok.ac.rw/policies/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Policies</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-113"><a href="https://uok.ac.rw/contact-us/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Contact Us</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a658937 e-con-full e-flex e-con e-child" data-id="a658937" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-2cd6a71 elementor-widget elementor-widget-heading" data-id="2cd6a71" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Governance</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0230d31 elementor-widget elementor-widget-jet-custom-menu" data-id="0230d31" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-governance-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-6642"><a href="https://uok.ac.rw/staff-profile/prof-manasseh-nshuti/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Chairman, Board of Promoters</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-governance-category jet-custom-nav__item jet-custom-nav__item-723"><a href="https://uok.ac.rw/governance-profile/board-of-promoters/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Board of Promoters</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-122"><a href="https://uok.ac.rw/governance/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">The Chancellery</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-governance-category jet-custom-nav__item jet-custom-nav__item-724"><a href="https://uok.ac.rw/governance-profile/university-governing-body/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">University Governing Body</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-governance-category jet-custom-nav__item jet-custom-nav__item-2396"><a href="https://uok.ac.rw/governance-profile/executive-organ/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Executive Organ</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-governance-category jet-custom-nav__item jet-custom-nav__item-726"><a href="https://uok.ac.rw/governance-profile/academic-senate/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Academic Senate</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-governance-category jet-custom-nav__item jet-custom-nav__item-727"><a href="https://uok.ac.rw/governance-profile/senior-management-committee/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Senior Management Committee</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-6fed608 e-con-full e-flex e-con e-child" data-id="6fed608" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-f9a6512 elementor-widget elementor-widget-heading" data-id="f9a6512" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Leadership</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-21450b6 elementor-widget elementor-widget-jet-custom-menu" data-id="21450b6" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-leadership-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-133"><a href="https://uok.ac.rw/leadership/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">University Of Kigali Leadership Team</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-leadership-profiles jet-custom-nav__item jet-custom-nav__item-877"><a href="https://uok.ac.rw/leadership-profiles/office-of-the-vice-chancellor/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">The Vice Chancellor</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-leadership-profiles jet-custom-nav__item jet-custom-nav__item-874"><a href="https://uok.ac.rw/?post_type=leadership-profiles&#038;p=870" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Deputy Vice-Chancellor Academic</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-leadership-profiles jet-custom-nav__item jet-custom-nav__item-876"><a href="https://uok.ac.rw/leadership-profiles/deputy-vice-chancellor-institutional-development-research-and-innovation/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Deputy Vice-Chancellor Institutional Development, Research and Innovation</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-leadership-profiles jet-custom-nav__item jet-custom-nav__item-875"><a href="https://uok.ac.rw/leadership-profiles/deputy-vice-chancellor-finance-and-administration/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Deputy Vice-Chancellor Administration and Human Resources</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div></div></li>
+<li id="jet-mega-menu-item-86" class="jet-mega-menu-item jet-mega-menu-item-type-custom jet-mega-menu-item-object-custom jet-mega-menu-item--mega jet-mega-menu-item-has-children jet-mega-menu-item--top-level jet-mega-menu-item-86"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="Admissions"><a href="#" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">Admissions</div></div></a></div><div class="jet-mega-menu-mega-container" data-template-id="176" data-template-content="elementor" data-position="default"><div class="jet-mega-menu-mega-container__inner"><style>.elementor-176 .elementor-element.elementor-element-f76c946{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-176 .elementor-element.elementor-element-b5296a3{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.15);--padding-top:0px;--padding-bottom:0px;--padding-left:50px;--padding-right:0px;--z-index:1;}.elementor-176 .elementor-element.elementor-element-b5296a3:not(.elementor-motion-effects-element-type-background), .elementor-176 .elementor-element.elementor-element-b5296a3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-65448af );}.elementor-176 .elementor-element.elementor-element-c87cc36{--display:flex;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );color:var( --e-global-color-primary );}.elementor-176 .elementor-element.elementor-element-184e4ac .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a{background-color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a{background-color:var( --e-global-color-secondary );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav{width:100%;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-176 .elementor-element.elementor-element-7bbff35  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-176 .elementor-element.elementor-element-7bbff35 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-176 .elementor-element.elementor-element-f9ade73{--display:flex;--justify-content:center;--padding-top:30px;--padding-bottom:30px;--padding-left:30px;--padding-right:30px;}.elementor-176 .elementor-element.elementor-element-f9ade73:not(.elementor-motion-effects-element-type-background), .elementor-176 .elementor-element.elementor-element-f9ade73 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-176 .elementor-element.elementor-element-113c012 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-4fb1054 );}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-176 .elementor-element.elementor-element-870efed{color:var( --e-global-color-4fb1054 );}.elementor-widget-button .elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-176 .elementor-element.elementor-element-5db8e39 .elementor-button{background-color:var( --e-global-color-4fb1054 );fill:var( --e-global-color-text );color:var( --e-global-color-text );}.elementor-176 .elementor-element.elementor-element-5db8e39 .elementor-button:hover, .elementor-176 .elementor-element.elementor-element-5db8e39 .elementor-button:focus{background-color:var( --e-global-color-primary );color:var( --e-global-color-4fb1054 );}.elementor-176 .elementor-element.elementor-element-5db8e39 .elementor-button:hover svg, .elementor-176 .elementor-element.elementor-element-5db8e39 .elementor-button:focus svg{fill:var( --e-global-color-4fb1054 );}@media(min-width:768px){.elementor-176 .elementor-element.elementor-element-f76c946{--content-width:1920px;}.elementor-176 .elementor-element.elementor-element-b5296a3{--width:60%;}}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-button .elementor-button{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}}@media(max-width:767px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-button .elementor-button{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}}</style>		<div data-elementor-type="wp-post" data-elementor-id="176" class="elementor elementor-176" data-elementor-post-type="jet-menu">
+				<div class="elementor-element elementor-element-f76c946 e-flex e-con-boxed e-con e-parent" data-id="f76c946" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-b5296a3 e-con-full e-flex e-con e-child" data-id="b5296a3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-c87cc36 e-con-full e-flex e-con e-child" data-id="c87cc36" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-184e4ac elementor-widget elementor-widget-heading" data-id="184e4ac" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Admissions Information</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7bbff35 elementor-widget elementor-widget-jet-custom-menu" data-id="7bbff35" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-admissions-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-180"><a href="https://uok.ac.rw/admissions-overview/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Admissions Overview</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-179"><a href="https://uok.ac.rw/how-to-apply/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">How to Apply</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-178"><a href="https://uok.ac.rw/admission-requirements/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Admission Requirements</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-182"><a href="https://uok.ac.rw/fees-and-payments/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Fees and Payments</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-183"><a href="https://uok.ac.rw/frequently-asked-questions/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Frequently Asked Questions</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f9ade73 e-con-full e-flex e-con e-child" data-id="f9ade73" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-113c012 elementor-widget elementor-widget-heading" data-id="113c012" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Apply For Admission</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-870efed elementor-widget elementor-widget-text-editor" data-id="870efed" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Make the decision to be part of the UoK family today</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5db8e39 elementor-widget elementor-widget-button" data-id="5db8e39" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://apply.uok.ac.rw/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Apply online</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div></div></li>
+<li id="jet-mega-menu-item-87" class="jet-mega-menu-item jet-mega-menu-item-type-custom jet-mega-menu-item-object-custom jet-mega-menu-item--mega jet-mega-menu-item-has-children jet-mega-menu-item--top-level jet-mega-menu-item-87"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="Academics"><a href="#" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">Academics</div></div></a></div><div class="jet-mega-menu-mega-container" data-template-id="1132" data-template-content="elementor" data-position="default"><div class="jet-mega-menu-mega-container__inner"><style>.elementor-1132 .elementor-element.elementor-element-c12e980{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1132 .elementor-element.elementor-element-5daaf4a{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0% 5%;--row-gap:0%;--column-gap:5%;box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.15);--padding-top:30px;--padding-bottom:30px;--padding-left:50px;--padding-right:50px;--z-index:1;}.elementor-1132 .elementor-element.elementor-element-5daaf4a:not(.elementor-motion-effects-element-type-background), .elementor-1132 .elementor-element.elementor-element-5daaf4a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-65448af );}.elementor-1132 .elementor-element.elementor-element-4786366{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-d250d79 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a{background-color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a{background-color:var( --e-global-color-secondary );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav{width:100%;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1132 .elementor-element.elementor-element-707f79c  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1132 .elementor-element.elementor-element-707f79c  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;line-height:36px;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1132 .elementor-element.elementor-element-707f79c .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1132 .elementor-element.elementor-element-c5354ec{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1132 .elementor-element.elementor-element-0c33837 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav{width:100%;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1132 .elementor-element.elementor-element-4d76c90  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1132 .elementor-element.elementor-element-4d76c90  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;line-height:36px;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1132 .elementor-element.elementor-element-4d76c90 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1132 .elementor-element.elementor-element-66e4a95{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1132 .elementor-element.elementor-element-386e5e0 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav{width:100%;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;line-height:36px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1132 .elementor-element.elementor-element-6ef8ec6 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1132 .elementor-element.elementor-element-a0878fc{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1132 .elementor-element.elementor-element-f9bb822 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav{width:100%;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1132 .elementor-element.elementor-element-2e4494e  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1132 .elementor-element.elementor-element-2e4494e  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;line-height:36px;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1132 .elementor-element.elementor-element-2e4494e .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}@media(min-width:768px){.elementor-1132 .elementor-element.elementor-element-c12e980{--content-width:1920px;}.elementor-1132 .elementor-element.elementor-element-5daaf4a{--width:85%;}}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}@media(max-width:767px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}</style>		<div data-elementor-type="wp-post" data-elementor-id="1132" class="elementor elementor-1132" data-elementor-post-type="jet-menu">
+				<div class="elementor-element elementor-element-c12e980 e-flex e-con-boxed e-con e-parent" data-id="c12e980" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-5daaf4a e-con-full e-flex e-con e-child" data-id="5daaf4a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-4786366 e-con-full e-flex e-con e-child" data-id="4786366" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-d250d79 elementor-widget elementor-widget-heading" data-id="d250d79" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Schools</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-707f79c elementor-widget elementor-widget-jet-custom-menu" data-id="707f79c" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-schools-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-taxonomy menu-item-object-academic-schools jet-custom-nav__item jet-custom-nav__item-1118"><a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-business-management-and-economics" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">School of Business Management and Economics</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-academic-schools jet-custom-nav__item jet-custom-nav__item-1119"><a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-computing-and-information-technology" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">School of Computing and Information Technology</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-academic-schools jet-custom-nav__item jet-custom-nav__item-1120"><a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-education" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">School of Education</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-academic-schools jet-custom-nav__item jet-custom-nav__item-1121"><a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-law" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">School of Law</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-academic-schools jet-custom-nav__item jet-custom-nav__item-1117"><a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=graduate-school" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Graduate School</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-academic-schools jet-custom-nav__item jet-custom-nav__item-1122"><a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-professional-and-executive-programmes" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">School of Professional and Executive Programmes</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-c5354ec e-con-full e-flex e-con e-child" data-id="c5354ec" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-0c33837 elementor-widget elementor-widget-heading" data-id="0c33837" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Programs</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4d76c90 elementor-widget elementor-widget-jet-custom-menu" data-id="4d76c90" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-programs-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-taxonomy menu-item-object-academic-program-category jet-custom-nav__item jet-custom-nav__item-1126"><a href="https://uok.ac.rw/program-category/undergraduate-programs/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Undergraduate Programmes</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-academic-program-category jet-custom-nav__item jet-custom-nav__item-1123"><a href="https://uok.ac.rw/program-category/graduate-programs/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Graduate Programmes</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-academic-program-category jet-custom-nav__item jet-custom-nav__item-1124"><a href="https://uok.ac.rw/program-category/professional-programmes/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Professional Programmes</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-academic-program-category jet-custom-nav__item jet-custom-nav__item-1125"><a href="https://uok.ac.rw/program-category/short-courses/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Short Courses</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-66e4a95 e-con-full e-flex e-con e-child" data-id="66e4a95" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-386e5e0 elementor-widget elementor-widget-heading" data-id="386e5e0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Centres</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6ef8ec6 elementor-widget elementor-widget-jet-custom-menu" data-id="6ef8ec6" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-centres-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-5356"><a href="https://uok.ac.rw/centre-of-inclusive-education/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Centre for Equity and Inclusiveness</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-7511"><a href="https://uok.ac.rw/centre-for-modern-languages/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Centre for Modern Languages</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a0878fc e-con-full e-flex e-con e-child" data-id="a0878fc" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-f9bb822 elementor-widget elementor-widget-heading" data-id="f9bb822" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Resources</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2e4494e elementor-widget elementor-widget-jet-custom-menu" data-id="2e4494e" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-academic-resources-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-1128"><a href="https://mis.uok.ac.rw/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Student Portal</span></span></a></div>
+<div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-1129"><a href="https://elearning.uok.ac.rw/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">E-learning Portal</span></span></a></div>
+<div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-1130"><a href="https://uok.ac.rw/wp-content/uploads/2024/07/University-of-Kigali-2024-Information-Flyer-final-1.pdf" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Student Handbook</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1527"><a href="https://uok.ac.rw/academic-calendar/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Academic Calendar</span></span></a></div>
+<div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-3043"><a href="https://uok.ac.rw/wp-content/uploads/2024/07/University-of-Kigali-2024-Information-Flyer-final.pdf" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Academic Summary Guide</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div></div></li>
+<li id="jet-mega-menu-item-88" class="jet-mega-menu-item jet-mega-menu-item-type-custom jet-mega-menu-item-object-custom jet-mega-menu-item--mega jet-mega-menu-item-has-children jet-mega-menu-item--top-level jet-mega-menu-item-88"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="Students"><a href="#" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">Students</div></div></a></div><div class="jet-mega-menu-mega-container" data-template-id="1672" data-template-content="elementor" data-position="default"><div class="jet-mega-menu-mega-container__inner"><style>.elementor-1672 .elementor-element.elementor-element-4c5b1cf{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1672 .elementor-element.elementor-element-13e628c{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 30px;--row-gap:0px;--column-gap:30px;box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.15);--padding-top:30px;--padding-bottom:30px;--padding-left:50px;--padding-right:50px;--z-index:1;}.elementor-1672 .elementor-element.elementor-element-13e628c:not(.elementor-motion-effects-element-type-background), .elementor-1672 .elementor-element.elementor-element-13e628c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-65448af );}.elementor-1672 .elementor-element.elementor-element-943a2b6{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-44bc258 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a{background-color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a{background-color:var( --e-global-color-secondary );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav{width:100%;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1672 .elementor-element.elementor-element-02b693a  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1672 .elementor-element.elementor-element-02b693a  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;line-height:36px;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1672 .elementor-element.elementor-element-02b693a .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1672 .elementor-element.elementor-element-78ba1e7{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1672 .elementor-element.elementor-element-f4e27d1 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav{width:100%;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1672 .elementor-element.elementor-element-94ddb03  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1672 .elementor-element.elementor-element-94ddb03  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;line-height:36px;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1672 .elementor-element.elementor-element-94ddb03 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1672 .elementor-element.elementor-element-65d1160{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1672 .elementor-element.elementor-element-54452b4 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav{width:100%;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1672 .elementor-element.elementor-element-fae2b99  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1672 .elementor-element.elementor-element-fae2b99  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;line-height:36px;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1672 .elementor-element.elementor-element-fae2b99 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}@media(min-width:768px){.elementor-1672 .elementor-element.elementor-element-4c5b1cf{--content-width:1920px;}.elementor-1672 .elementor-element.elementor-element-13e628c{--width:80%;}}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}@media(max-width:767px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}</style>		<div data-elementor-type="wp-post" data-elementor-id="1672" class="elementor elementor-1672" data-elementor-post-type="jet-menu">
+				<div class="elementor-element elementor-element-4c5b1cf e-flex e-con-boxed e-con e-parent" data-id="4c5b1cf" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-13e628c e-con-full e-flex e-con e-child" data-id="13e628c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-943a2b6 e-con-full e-flex e-con e-child" data-id="943a2b6" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-44bc258 elementor-widget elementor-widget-heading" data-id="44bc258" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Student Resources</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-02b693a elementor-widget elementor-widget-jet-custom-menu" data-id="02b693a" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-students-resources-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-8615"><a href="https://uok.ac.rw/wp-content/uploads/2025/03/Recommended-Journal-List-UoK-updated-March-21-2025.pdf" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Recommended Journals for Master&#8217;s Students</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-8235"><a href="https://uok.ac.rw/check-your-eligibility-for-graduation/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Check Your Eligibility for Graduation</span></span></a></div>
+<div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-1658"><a href="https://mycampus.uok.ac.rw" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Student Portal</span></span></a></div>
+<div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-1659"><a href="https://elearning.uok.ac.rw" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">E-Learning Portal</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1660"><a href="https://uok.ac.rw/academic-calendar/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Academic Calendar</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1661"><a href="https://uok.ac.rw/fees-and-payments/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Fees and Payments</span></span></a></div>
+<div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-1662"><a href="https://uok.ac.rw/wp-content/uploads/2024/07/Student-Policy-Handbook.pdf" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Student Handbook</span></span></a></div>
+<div class="menu-item menu-item-type-post_type_archive menu-item-object-graduation-booklets jet-custom-nav__item jet-custom-nav__item-6612"><a href="https://uok.ac.rw/graduation-booklets/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Graduation Booklets</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-78ba1e7 e-con-full e-flex e-con e-child" data-id="78ba1e7" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-f4e27d1 elementor-widget elementor-widget-heading" data-id="f4e27d1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Student Affairs</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-94ddb03 elementor-widget elementor-widget-jet-custom-menu" data-id="94ddb03" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-student-affairs-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1668"><a href="https://uok.ac.rw/office-of-the-dean-of-students/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Office Of The Dean Of Students</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-7543"><a href="https://uok.ac.rw/clubs-and-societies/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Clubs and Societies</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-7558"><a href="https://uok.ac.rw/students-council/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Guild Council</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-7786"><a href="https://uok.ac.rw/chaplaincy/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Chaplaincy</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-7787"><a href="https://uok.ac.rw/international-students/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">International Students</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-7788"><a href="https://uok.ac.rw/health-services/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Health Services</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-65d1160 e-con-full e-flex e-con e-child" data-id="65d1160" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-54452b4 elementor-widget elementor-widget-heading" data-id="54452b4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Library</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-fae2b99 elementor-widget elementor-widget-jet-custom-menu" data-id="fae2b99" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-library-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1670"><a href="https://uok.ac.rw/about-uok-library/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">About UoK Library</span></span></a></div>
+<div class="menu-item menu-item-type-custom menu-item-object-custom jet-custom-nav__item jet-custom-nav__item-1671"><a href="https://repository.uok.ac.rw" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Institutional Repository</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1669"><a href="https://uok.ac.rw/digital-library/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Digital Library</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div></div></li>
+<li id="jet-mega-menu-item-89" class="jet-mega-menu-item jet-mega-menu-item-type-custom jet-mega-menu-item-object-custom jet-mega-menu-item--mega jet-mega-menu-item-has-children jet-mega-menu-item--top-level jet-mega-menu-item-89"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="Research and Innovation"><a href="#" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">Research and Innovation</div></div></a></div><div class="jet-mega-menu-mega-container" data-template-id="1819" data-template-content="elementor" data-position="default"><div class="jet-mega-menu-mega-container__inner"><style>.elementor-1819 .elementor-element.elementor-element-52203ab{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1819 .elementor-element.elementor-element-6f45af9{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.15);--padding-top:30px;--padding-bottom:30px;--padding-left:50px;--padding-right:50px;--z-index:1;}.elementor-1819 .elementor-element.elementor-element-6f45af9:not(.elementor-motion-effects-element-type-background), .elementor-1819 .elementor-element.elementor-element-6f45af9 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F4F4F4;}.elementor-1819 .elementor-element.elementor-element-6dbe1c0{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-90f8a92 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a{background-color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a{background-color:var( --e-global-color-secondary );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav{width:100%;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1819 .elementor-element.elementor-element-0e81fde  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1819 .elementor-element.elementor-element-0e81fde .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1819 .elementor-element.elementor-element-e1bb36f{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1819 .elementor-element.elementor-element-dd81ee6 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav{width:100%;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1819 .elementor-element.elementor-element-7198289  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1819 .elementor-element.elementor-element-7198289 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1819 .elementor-element.elementor-element-f8bfd2a{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1819 .elementor-element.elementor-element-25410f5 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav{width:100%;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1819 .elementor-element.elementor-element-9ac0208  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1819 .elementor-element.elementor-element-9ac0208 .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}@media(min-width:768px){.elementor-1819 .elementor-element.elementor-element-52203ab{--content-width:1920px;}.elementor-1819 .elementor-element.elementor-element-6f45af9{--width:90%;}.elementor-1819 .elementor-element.elementor-element-6dbe1c0{--width:25%;}.elementor-1819 .elementor-element.elementor-element-e1bb36f{--width:35%;}.elementor-1819 .elementor-element.elementor-element-f8bfd2a{--width:35%;}}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}@media(max-width:767px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}</style>		<div data-elementor-type="wp-post" data-elementor-id="1819" class="elementor elementor-1819" data-elementor-post-type="jet-menu">
+				<div class="elementor-element elementor-element-52203ab e-flex e-con-boxed e-con e-parent" data-id="52203ab" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6f45af9 e-con-full e-flex e-con e-child" data-id="6f45af9" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-6dbe1c0 e-con-full e-flex e-con e-child" data-id="6dbe1c0" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-90f8a92 elementor-widget elementor-widget-heading" data-id="90f8a92" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Research</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0e81fde elementor-widget elementor-widget-jet-custom-menu" data-id="0e81fde" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-research-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-2071"><a href="https://uok.ac.rw/communities-of-scholarship/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Research Communities of Scholarship</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-our-researchers jet-custom-nav__item jet-custom-nav__item-3993"><a href="https://uok.ac.rw/our-researchers/our-researchers/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Our Researchers</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-7537"><a href="https://uok.ac.rw/journal-of-financial-and-management-sciences/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Journal of Financial and Management Sciences</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-7551"><a href="https://uok.ac.rw/international-conference/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">International Conference on Green and Sustainable Development</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-7554"><a href="https://uok.ac.rw/research-projects/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Research Projects</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e1bb36f e-con-full e-flex e-con e-child" data-id="e1bb36f" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-dd81ee6 elementor-widget elementor-widget-heading" data-id="dd81ee6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Research Institutions and Centers</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7198289 elementor-widget elementor-widget-jet-custom-menu" data-id="7198289" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-research-institutions-and-centres-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1937"><a href="https://uok.ac.rw/office-of-the-deputy-vice-chancellor-institutional-development-research-and-innovation/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Office of the Deputy Vice-Chancellor, Institutional Development, Research and Innovation</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1936"><a href="https://uok.ac.rw/entreprise-business-hub/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Entreprise Business Hub</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-5206"><a href="https://uok.ac.rw/centre-for-economic-governance-and-leadership/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Centre for Economic Governance and Leadership</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f8bfd2a e-con-full e-flex e-con e-child" data-id="f8bfd2a" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-25410f5 elementor-widget elementor-widget-heading" data-id="25410f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Innovation and Institutional Development</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9ac0208 elementor-widget elementor-widget-jet-custom-menu" data-id="9ac0208" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-innovation-and-institutional-development-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1940"><a href="https://uok.ac.rw/our-strategic-partnerships/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Our Strategic Partnerships</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1942"><a href="https://uok.ac.rw/purpose-and-ley-strategic-drivers/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Purpose and Key Strategic Drivers</span></span></a></div>
+<div class="menu-item menu-item-type-taxonomy menu-item-object-idri-team jet-custom-nav__item jet-custom-nav__item-3990"><a href="https://uok.ac.rw/idri-team/idri-member/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Meet the IDRI Team</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1938"><a href="https://uok.ac.rw/the-uok-distinguished-professor-lecture-series/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">The UoK Distinguished Professor Lecture Series</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div></div></li>
+<li id="jet-mega-menu-item-90" class="jet-mega-menu-item jet-mega-menu-item-type-custom jet-mega-menu-item-object-custom jet-mega-menu-item--mega jet-mega-menu-item-has-children jet-mega-menu-item--top-level jet-mega-menu-item-90"><div class="jet-mega-menu-item__inner" tabindex="0" aria-label="News"><a href="#" class="jet-mega-menu-item__link jet-mega-menu-item__link--top-level"><div class="jet-mega-menu-item__title"><div class="jet-mega-menu-item__label">News</div></div></a></div><div class="jet-mega-menu-mega-container" data-template-id="1415" data-template-content="elementor" data-position="default"><div class="jet-mega-menu-mega-container__inner"><style>.elementor-1415 .elementor-element.elementor-element-1c3d7aa{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1415 .elementor-element.elementor-element-22e7ce6{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;box-shadow:0px 2px 2px 0px rgba(0, 0, 0, 0.15);--padding-top:0px;--padding-bottom:0px;--padding-left:50px;--padding-right:0px;--z-index:1;}.elementor-1415 .elementor-element.elementor-element-22e7ce6:not(.elementor-motion-effects-element-type-background), .elementor-1415 .elementor-element.elementor-element-22e7ce6 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F6F6F6;}.elementor-1415 .elementor-element.elementor-element-90682b3{--display:flex;--padding-top:30px;--padding-bottom:30px;--padding-left:0px;--padding-right:0px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );color:var( --e-global-color-primary );}.elementor-1415 .elementor-element.elementor-element-b2788e0 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a{background-color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a{background-color:var( --e-global-color-secondary );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-dropdown-arrow:before{color:var( --e-global-color-text );}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > a{background-color:#00000000;padding:02px 0px 02px 0px;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav{width:100%;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__mega-sub{width:500px;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub{min-width:250px;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__sub{min-width:250px;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{color:#414A4C;}.elementor-1415 .elementor-element.elementor-element-57c560e  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:36px;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-custom-item-label.top-level-label{color:var( --e-global-color-primary );}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item.current-menu-item > a .jet-menu-icon:before{color:var( --e-global-color-primary );}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon{background-color:#ffffff;width:22px;height:22px;align-self:center;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item.hover-state > a .jet-menu-icon{background-color:#ffffff;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon:before{font-size:12px;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon:before{font-size:12px;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-icon svg{width:12px;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-icon svg{width:12px;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge{align-self:center;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge{align-self:center;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{right:15px;align-self:center;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1415 .elementor-element.elementor-element-57c560e .jet-custom-nav--dropdown-left-side > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-dropdown-arrow{left:15px;right:auto;}.elementor-1415 .elementor-element.elementor-element-b67ddea{--display:flex;--justify-content:center;--padding-top:30px;--padding-bottom:30px;--padding-left:30px;--padding-right:30px;}.elementor-1415 .elementor-element.elementor-element-b67ddea:not(.elementor-motion-effects-element-type-background), .elementor-1415 .elementor-element.elementor-element-b67ddea > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-1415 .elementor-element.elementor-element-d3e60c6 .elementor-heading-title{font-family:"Source Sans Pro", Sans-serif;font-size:25px;font-weight:700;line-height:36px;color:#FFFFFF;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-1415 .elementor-element.elementor-element-d793ef6{font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;line-height:36px;color:#FFFFFF;}.elementor-widget-jet-subscribe-form .jet-subscribe-form__submit{background-color:var( --e-global-color-primary );}.elementor-widget-jet-subscribe-form .jet-subscribe-form__input{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form__input:focus{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form__input.mail-invalid{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form  .jet-subscribe-form__submit{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form--response-success .jet-subscribe-form__message span{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form--response-error .jet-subscribe-form__message span{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-size:var( --e-global-typography-accent-font-size );font-weight:var( --e-global-typography-accent-font-weight );line-height:var( --e-global-typography-accent-line-height );}.elementor-1415 .elementor-element.elementor-element-174be1d .jet-subscribe-form__submit{background-color:var( --e-global-color-4fb1054 );color:var( --e-global-color-text );padding:10px 10px 10px 10px;margin:0px 0px 0px 0px;border-radius:0px 5px 05px 0px;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-4fb1054 );}.elementor-1415 .elementor-element.elementor-element-174be1d .jet-subscribe-form__submit:hover{background-color:var( --e-global-color-primary );color:var( --e-global-color-4fb1054 );border-radius:0px 05px 05px 0px;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-secondary );}.elementor-1415 .elementor-element.elementor-element-174be1d.elementor-element{--flex-grow:1;--flex-shrink:0;}.elementor-1415 .elementor-element.elementor-element-174be1d .jet-subscribe-form{width:100%;}.elementor-1415 .elementor-element.elementor-element-174be1d .jet-subscribe-form__input{padding:10px 10px 10px 10px;border-radius:05px 0px 0px 05px;background-color:#02010100;color:var( --e-global-color-4fb1054 );font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:400;line-height:36px;border-style:solid;border-color:var( --e-global-color-4fb1054 );}.elementor-1415 .elementor-element.elementor-element-174be1d .jet-subscribe-form__input::-webkit-input-placeholder{color:var( --e-global-color-4fb1054 );}.elementor-1415 .elementor-element.elementor-element-174be1d .jet-subscribe-form__input::-moz-input-placeholder{color:var( --e-global-color-4fb1054 );}.elementor-1415 .elementor-element.elementor-element-174be1d  .jet-subscribe-form__submit{font-family:"Montserrat", Sans-serif;font-size:14px;font-weight:400;line-height:36px;}.elementor-1415 .elementor-element.elementor-element-174be1d .jet-subscribe-form__message .jet-subscribe-form__message-inner{justify-content:center;}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-1415 .elementor-element.elementor-element-d793ef6{font-size:16px;line-height:32px;}.elementor-widget-jet-subscribe-form .jet-subscribe-form__input{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form__input:focus{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form__input.mail-invalid{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form  .jet-subscribe-form__submit{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form--response-success .jet-subscribe-form__message span{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form--response-error .jet-subscribe-form__message span{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}}@media(min-width:768px){.elementor-1415 .elementor-element.elementor-element-1c3d7aa{--content-width:1920px;}.elementor-1415 .elementor-element.elementor-element-22e7ce6{--width:50%;}.elementor-1415 .elementor-element.elementor-element-90682b3{--width:40%;}.elementor-1415 .elementor-element.elementor-element-b67ddea{--width:60%;}}@media(max-width:767px){.elementor-1415 .elementor-element.elementor-element-22e7ce6{--width:100%;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1415 .elementor-element.elementor-element-90682b3{--padding-top:30px;--padding-bottom:30px;--padding-left:20px;--padding-right:20px;}.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-label.top-level-label{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > a .jet-custom-item-desc.top-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-menu-link-text{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-widget-jet-custom-menu  .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub .jet-custom-nav__item > a .jet-custom-item-desc.sub-level-desc{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > a .jet-menu-badge .jet-menu-badge__inner, .elementor-widget-jet-custom-menu .jet-custom-nav > .jet-custom-nav__item > .jet-custom-nav__sub a .jet-menu-badge .jet-menu-badge__inner{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-1415 .elementor-element.elementor-element-d793ef6{font-size:16px;line-height:32px;}.elementor-widget-jet-subscribe-form .jet-subscribe-form__input{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form__input:focus{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form__input.mail-invalid{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form  .jet-subscribe-form__submit{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form--response-success .jet-subscribe-form__message span{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}.elementor-widget-jet-subscribe-form .jet-subscribe-form--response-error .jet-subscribe-form__message span{font-size:var( --e-global-typography-accent-font-size );line-height:var( --e-global-typography-accent-line-height );}}/* Start custom CSS for text-editor, class: .elementor-element-d793ef6 */.elementor-1415 .elementor-element.elementor-element-d793ef6 p{
+    margin:0;
+}/* End custom CSS */</style>		<div data-elementor-type="wp-post" data-elementor-id="1415" class="elementor elementor-1415" data-elementor-post-type="jet-menu">
+				<div class="elementor-element elementor-element-1c3d7aa e-flex e-con-boxed e-con e-parent" data-id="1c3d7aa" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-22e7ce6 e-con-full e-flex e-con e-child" data-id="22e7ce6" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-90682b3 e-con-full e-flex e-con e-child" data-id="90682b3" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-b2788e0 elementor-widget elementor-widget-heading" data-id="b2788e0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">University Updates</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-57c560e elementor-widget elementor-widget-jet-custom-menu" data-id="57c560e" data-element_type="widget" data-widget_type="jet-custom-menu.default">
+				<div class="elementor-widget-container">
+					<div class="menu-news-and-events-container"><div class="jet-custom-nav jet-custom-nav--dropdown-right-side jet-custom-nav--animation-fade" data-trigger="hover"><div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1412"><a href="https://uok.ac.rw/news/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">News</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1411"><a href="https://uok.ac.rw/events/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Events</span></span></a></div>
+<div class="menu-item menu-item-type-post_type menu-item-object-page jet-custom-nav__item jet-custom-nav__item-1413"><a href="https://uok.ac.rw/vacancies/" class="jet-custom-nav__item-link"><span class="jet-menu-link-text"><span class="jet-custom-item-label top-level-label">Vacancies</span></span></a></div>
+</div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b67ddea e-con-full e-flex e-con e-child" data-id="b67ddea" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-d3e60c6 elementor-widget elementor-widget-heading" data-id="d3e60c6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Subscribe to Our Newletter</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d793ef6 elementor-widget elementor-widget-text-editor" data-id="d793ef6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Stay up-to-date with university events and activities!</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-174be1d elementor-widget elementor-widget-jet-subscribe-form" data-id="174be1d" data-element_type="widget" data-widget_type="jet-subscribe-form.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-jet-subscribe-form jet-elements"><div class="jet-subscribe-form jet-subscribe-form--inline-layout" data-settings="{&quot;redirect&quot;:false,&quot;redirect_url&quot;:&quot;#&quot;,&quot;use_target_list_id&quot;:false,&quot;target_list_id&quot;:&quot;&quot;}">
+	<form method="POST" action="#" class="jet-subscribe-form__form">
+		<div class="jet-subscribe-form__input-group">
+			<div class="jet-subscribe-form__fields">
+				<input class="jet-subscribe-form__input jet-subscribe-form__mail-field" type="email" name="email" placeholder="Enter email address" data-instance-data="[]"></div>
+			<a class="jet-subscribe-form__submit elementor-button elementor-size-md" href="#"><span class="jet-subscribe-form__submit-text">Subscribe</span></a>		</div>
+		<div class="jet-subscribe-form__message"><div class="jet-subscribe-form__message-inner"><span></span></div></div>
+	</form>
+</div>
+</div>				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		</div></div></li>
+</ul></nav></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f260d20 elementor-widget elementor-widget-button" data-id="f260d20" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://apply.uok.ac.rw/" target="_blank">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Apply now</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		
+<main  id="content" class="site-main post-17 page type-page status-publish hentry">
+
+	
+	<div  class="page-content">
+				<div  data-elementor-type="wp-page" data-elementor-id="17" class="elementor elementor-17" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-16b83d4 e-con-full e-flex e-con e-parent" data-id="16b83d4" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-ab18b9c elementor-widget elementor-widget-jet-slider" data-id="ab18b9c" data-element_type="widget" data-settings="{&quot;slider_height&quot;:{&quot;unit&quot;:&quot;vh&quot;,&quot;size&quot;:80,&quot;sizes&quot;:[]},&quot;slider_height_tablet&quot;:{&quot;unit&quot;:&quot;vh&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;slider_height_mobile&quot;:{&quot;unit&quot;:&quot;vh&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]}}" data-widget_type="jet-slider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-jet-slider jet-elements">
+<div class="jet-slider jet-slider__image-exact" data-settings='{&quot;sliderWidth&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;sliderHeight&quot;:{&quot;unit&quot;:&quot;vh&quot;,&quot;size&quot;:80,&quot;sizes&quot;:[]},&quot;sliderNavigation&quot;:true,&quot;sliderNavigationIcon&quot;:&quot;jet-slider__arrow-icon-ab18b9c&quot;,&quot;sliderNaviOnHover&quot;:true,&quot;sliderPagination&quot;:false,&quot;sliderAutoplay&quot;:true,&quot;sliderAutoplayDelay&quot;:8000,&quot;sliderAutoplayOnHover&quot;:&quot;none&quot;,&quot;sliderFullScreen&quot;:false,&quot;sliderFullscreenIcon&quot;:&quot;jet-slider__fullscreen-icon-ab18b9c&quot;,&quot;sliderShuffle&quot;:false,&quot;sliderLoop&quot;:true,&quot;sliderFadeMode&quot;:true,&quot;slideDistance&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;slideDuration&quot;:500,&quot;imageScaleMode&quot;:&quot;exact&quot;,&quot;thumbnails&quot;:false,&quot;thumbnailWidth&quot;:120,&quot;thumbnailHeight&quot;:80,&quot;rightToLeft&quot;:false,&quot;touchswipe&quot;:true,&quot;fractionPag&quot;:false}'>
+	
+<div  class="slider-pro"><div class="jet-slider__arrow-icon-ab18b9c hidden-html"><svg aria-hidden="true" class="e-font-icon-svg e-fas-angle-left" viewBox="0 0 256 512" xmlns="http://www.w3.org/2000/svg"><path d="M31.7 239l136-136c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9L127.9 256l96.4 96.4c9.4 9.4 9.4 24.6 0 33.9L201.7 409c-9.4 9.4-24.6 9.4-33.9 0l-136-136c-9.5-9.4-9.5-24.6-.1-34z"></path></svg></div><div class="jet-slider__fullscreen-icon-ab18b9c hidden-html"></div><div class="jet-slider__items sp-slides">
+
+
+<div  class="jet-slider__item sp-slide elementor-repeater-item-e0f3315"><img fetchpriority="high" width="1720" height="800" decoding="async" class="sp-image" src="https://uok.ac.rw/wp-content/uploads/2025/01/Welcome-aboard-We-cant-wait-to-see-all-that-youll-achieve-with-us.1-1.png" alt="Welcome aboard! We can&#039;t wait to see all that you&#039;ll achieve with us.(1)" loading="lazy"><div class="jet-slider__content sp-layer " data-position="centerCenter" data-width="100%" data-height="100%" data-horizontal="0%" data-show-transition="up" data-show-duration="400" data-show-delay="400" >
+		<div class="jet-slider__content-item">
+			<div class="jet-slider__content-inner">
+						<div class="jet-slider__button-wrapper"><a class="elementor-button elementor-size-md jet-slider__button jet-slider__button--primary" href="https://apply.uok.ac.rw/" target="_blank">Apply Now</a><a class="elementor-button elementor-size-md jet-slider__button jet-slider__button--secondary" href="https://uok.ac.rw/admissions-overview/">Explore Our Programmes</a>						</div></div>
+		</div>
+			</div>
+</div>
+
+<div  class="jet-slider__item sp-slide elementor-repeater-item-5aa3c6c"><img width="2560" height="1707" decoding="async" class="sp-image" src="https://uok.ac.rw/wp-content/uploads/2025/04/54383828712_118ee2c02e_o-scaled.jpg" alt="54383828712_118ee2c02e_o" loading="lazy"><div class="jet-slider__content sp-layer " data-position="centerCenter" data-width="100%" data-height="100%" data-horizontal="0%" data-show-transition="up" data-show-duration="400" data-show-delay="400" >
+		<div class="jet-slider__content-item">
+			<div class="jet-slider__content-inner">
+						<div class="jet-slider__button-wrapper"><a class="elementor-button elementor-size-md jet-slider__button jet-slider__button--primary" href="https://apply.uok.ac.rw/" target="_blank">Apply Now</a><a class="elementor-button elementor-size-md jet-slider__button jet-slider__button--secondary" href="https://uok.ac.rw/admissions-overview/">Explore Our Programmes</a>						</div></div>
+		</div>
+			</div>
+</div>
+
+<div  class="jet-slider__item sp-slide elementor-repeater-item-a1f9547"><img width="1080" height="565" decoding="async" class="sp-image" src="https://uok.ac.rw/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-15-at-17.16.34.jpeg" alt="WhatsApp Image 2024-10-15 at 17.16.34" loading="lazy"><div class="jet-slider__content sp-layer jet-slider__item-linked" data-position="centerCenter" data-width="100%" data-height="100%" data-horizontal="0%" data-show-transition="up" data-show-duration="400" data-show-delay="400" data-slide-url="https://uok.ac.rw/news/university-of-kigali-wins-german-design-award-2025-and-achieves-finalist-status-at-italys-the-plan-awards-for-outstanding-international-design-quality/" data-slide-url-target="">
+		<div class="jet-slider__content-item">
+			<div class="jet-slider__content-inner">
+						<div class="jet-slider__button-wrapper">						</div></div>
+		</div>
+		<a class="jet-slider__content-item-link" href="https://uok.ac.rw/news/university-of-kigali-wins-german-design-award-2025-and-achieves-finalist-status-at-italys-the-plan-awards-for-outstanding-international-design-quality/"></a>	</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4c97042 e-flex e-con-boxed e-con e-parent" data-id="4c97042" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-895b8b9 elementor-widget elementor-widget-heading" data-id="895b8b9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Study At UoK</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-6d47996 e-con-full e-flex e-con e-child" data-id="6d47996" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-10ad690 elementor-widget elementor-widget-jet-ajax-search" data-id="10ad690" data-element_type="widget" data-settings="{&quot;results_area_columns&quot;:1}" data-widget_type="jet-ajax-search.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-jet-ajax-search jet-search">
+	<div class="jet_search_listing_grid_hidden_template" style="display: none;">
+			</div>
+
+<div class="jet-ajax-search" data-settings="{&quot;symbols_for_start_searching&quot;:2,&quot;search_by_empty_value&quot;:&quot;&quot;,&quot;submit_on_enter&quot;:&quot;&quot;,&quot;search_source&quot;:[&quot;academic-programs&quot;],&quot;search_logging&quot;:&quot;&quot;,&quot;search_results_url&quot;:&quot;&quot;,&quot;search_taxonomy&quot;:&quot;&quot;,&quot;include_terms_ids&quot;:[],&quot;exclude_terms_ids&quot;:[],&quot;exclude_posts_ids&quot;:[],&quot;custom_fields_source&quot;:&quot;&quot;,&quot;limit_query&quot;:5,&quot;limit_query_tablet&quot;:&quot;&quot;,&quot;limit_query_mobile&quot;:&quot;&quot;,&quot;limit_query_in_result_area&quot;:25,&quot;results_order_by&quot;:&quot;relevance&quot;,&quot;results_order&quot;:&quot;asc&quot;,&quot;sentence&quot;:&quot;&quot;,&quot;search_in_taxonomy&quot;:&quot;yes&quot;,&quot;search_in_taxonomy_source&quot;:[],&quot;results_area_width_by&quot;:&quot;form&quot;,&quot;results_area_custom_width&quot;:&quot;&quot;,&quot;results_area_custom_position&quot;:&quot;&quot;,&quot;results_area_columns&quot;:1,&quot;results_area_columns_tablet&quot;:&quot;&quot;,&quot;results_area_columns_mobile&quot;:&quot;&quot;,&quot;results_area_columns_mobile_portrait&quot;:&quot;&quot;,&quot;thumbnail_visible&quot;:&quot;&quot;,&quot;thumbnail_size&quot;:&quot;&quot;,&quot;thumbnail_placeholder&quot;:&quot;&quot;,&quot;post_content_source&quot;:&quot;content&quot;,&quot;post_content_custom_field_key&quot;:&quot;&quot;,&quot;post_content_length&quot;:30,&quot;show_product_price&quot;:&quot;&quot;,&quot;show_product_rating&quot;:&quot;&quot;,&quot;show_add_to_cart&quot;:&quot;&quot;,&quot;show_result_new_tab&quot;:&quot;&quot;,&quot;highlight_searched_text&quot;:&quot;yes&quot;,&quot;listing_id&quot;:&quot;&quot;,&quot;bullet_pagination&quot;:&quot;&quot;,&quot;number_pagination&quot;:&quot;&quot;,&quot;navigation_arrows&quot;:&quot;in_header&quot;,&quot;navigation_arrows_type&quot;:&quot;angle&quot;,&quot;show_title_related_meta&quot;:&quot;&quot;,&quot;meta_title_related_position&quot;:&quot;&quot;,&quot;title_related_meta&quot;:&quot;&quot;,&quot;show_content_related_meta&quot;:&quot;&quot;,&quot;meta_content_related_position&quot;:&quot;&quot;,&quot;content_related_meta&quot;:&quot;&quot;,&quot;negative_search&quot;:&quot;Sorry, but nothing matched your search terms.&quot;,&quot;server_error&quot;:&quot;Sorry, but we cannot handle your search query now. Please, try again later!&quot;,&quot;show_search_suggestions&quot;:&quot;yes&quot;,&quot;search_suggestions_position&quot;:&quot;under_form&quot;,&quot;search_suggestions_source&quot;:&quot;popular&quot;,&quot;search_suggestions_limits&quot;:20,&quot;search_suggestions_item_title_length&quot;:0,&quot;search_source_terms&quot;:&quot;&quot;,&quot;search_source_terms_title&quot;:&quot;&quot;,&quot;search_source_terms_icon&quot;:&quot;&quot;,&quot;search_source_terms_limit&quot;:&quot;&quot;,&quot;search_source_terms_listing_id&quot;:&quot;&quot;,&quot;search_source_terms_taxonomy&quot;:&quot;&quot;,&quot;search_source_users&quot;:&quot;&quot;,&quot;search_source_users_title&quot;:&quot;&quot;,&quot;search_source_users_icon&quot;:&quot;&quot;,&quot;search_source_users_limit&quot;:&quot;&quot;,&quot;search_source_users_listing_id&quot;:&quot;&quot;}">
+<form class="jet-ajax-search__form" method="get" action="https://uok.ac.rw/" role="search" target="">
+	<div class="jet-ajax-search__fields-holder">
+		<div class="jet-ajax-search__field-wrapper">
+			<label for="search-input-10ad690" class="screen-reader-text">Search ...</label>
+						<input id="search-input-10ad690" class="jet-ajax-search__field" type="search" placeholder="Search for programmes and courses" value="" name="s" autocomplete="off" />
+							<input type="hidden" value="{&quot;search_source&quot;:&quot;academic-programs&quot;,&quot;search_in_taxonomy&quot;:true}" name="jet_ajax_search_settings" />
+						
+					</div>
+			</div>
+	
+<button class="jet-ajax-search__submit" type="submit" aria-label="Search submit"><span class="jet-ajax-search__submit-icon jet-ajax-search-icon"><svg aria-hidden="true" class="e-font-icon-svg e-fas-search" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></span></button>
+</form>
+
+<div class="jet-ajax-search__results-area" >
+	<div class="jet-ajax-search__results-holder">
+					<div class="jet-ajax-search__results-header">
+				
+<button class="jet-ajax-search__results-count"><span></span> Results</button>
+				<div class="jet-ajax-search__navigation-holder"></div>
+			</div>
+						<div class="jet-ajax-search__results-list results-area-col-desk-1 results-area-col-tablet-0 results-area-col-mobile-0 results-area-col-mobile-portrait-1" >
+			            <div class="jet-ajax-search__results-list-inner "></div>
+					</div>
+					<div class="jet-ajax-search__results-footer">
+				<button class="jet-ajax-search__full-results">See all results</button>				<div class="jet-ajax-search__navigation-holder"></div>
+			</div>
+			</div>
+	<div class="jet-ajax-search__message"></div>
+	
+<div class="jet-ajax-search__spinner-holder">
+	<div class="jet-ajax-search__spinner">
+		<div class="rect rect-1"></div>
+		<div class="rect rect-2"></div>
+		<div class="rect rect-3"></div>
+		<div class="rect rect-4"></div>
+		<div class="rect rect-5"></div>
+	</div>
+</div>
+</div>
+
+<div class="jet-ajax-search__suggestions-inline-area">
+        </div></div>
+</div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a075a8e e-con-full e-flex e-con e-child" data-id="a075a8e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-e39c3af e-grid e-con-full e-con e-child" data-id="e39c3af" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-11496ac e-con-full e-flex e-con e-child" data-id="11496ac" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-b4bfc15 e-con-full img e-flex e-con e-child" data-id="b4bfc15" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-60da125 inner e-flex e-con-boxed e-con e-child" data-id="60da125" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-eba8115 title elementor-widget elementor-widget-heading" data-id="eba8115" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Undergraduate Programmes</h6>				</div>
+				</div>
+		<div class="elementor-element elementor-element-b57fd96 learn-more e-flex e-con-boxed e-con e-child" data-id="b57fd96" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-619b89c elementor-widget elementor-widget-button" data-id="619b89c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/program-category/undergraduate-programs/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>			</span>
+									<span class="elementor-button-text">Learn more</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f8f625a e-con-full e-flex e-con e-child" data-id="f8f625a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-9508344 e-con-full img e-flex e-con e-child" data-id="9508344" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-8dbde1c inner e-flex e-con-boxed e-con e-child" data-id="8dbde1c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7f1d36c title elementor-widget elementor-widget-heading" data-id="7f1d36c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Graduate Programmes</h6>				</div>
+				</div>
+		<div class="elementor-element elementor-element-56c7f14 learn-more e-flex e-con-boxed e-con e-child" data-id="56c7f14" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-73d542b elementor-widget elementor-widget-button" data-id="73d542b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/program-category/graduate-programs/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>			</span>
+									<span class="elementor-button-text">Learn more</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4f07f0d e-con-full e-flex e-con e-child" data-id="4f07f0d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-494d4a3 e-con-full img e-flex e-con e-child" data-id="494d4a3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-e4814dc inner e-flex e-con-boxed e-con e-child" data-id="e4814dc" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2c59010 title elementor-widget elementor-widget-heading" data-id="2c59010" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Professional Courses</h6>				</div>
+				</div>
+		<div class="elementor-element elementor-element-a38584d learn-more e-flex e-con-boxed e-con e-child" data-id="a38584d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8738ca1 elementor-widget elementor-widget-button" data-id="8738ca1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/program-category/professional-programmes/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>			</span>
+									<span class="elementor-button-text">Learn more</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-99f5e98 e-con-full e-flex e-con e-child" data-id="99f5e98" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-41bd2fb e-con-full img e-flex e-con e-child" data-id="41bd2fb" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-090c05a inner e-flex e-con-boxed e-con e-child" data-id="090c05a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e1e4a55 title elementor-widget elementor-widget-heading" data-id="e1e4a55" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Short Courses</h6>				</div>
+				</div>
+		<div class="elementor-element elementor-element-3d85aba learn-more e-flex e-con-boxed e-con e-child" data-id="3d85aba" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f1cef05 elementor-widget elementor-widget-button" data-id="f1cef05" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/program-category/short-courses/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>			</span>
+									<span class="elementor-button-text">Learn more</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-396a548 e-con-full e-flex e-con e-child" data-id="396a548" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-8371073 elementor-widget elementor-widget-heading" data-id="8371073" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Find out more about:</h6>				</div>
+				</div>
+		<div class="elementor-element elementor-element-246dd2e e-con-full e-flex e-con e-child" data-id="246dd2e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-50844d1 elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="50844d1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/how-to-apply/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">How to Apply</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-94cf09d elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="94cf09d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/admission-requirements/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Admission Requirements</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-d25eb5a elementor-mobile-align-justify elementor-widget-mobile__width-inherit elementor-widget elementor-widget-button" data-id="d25eb5a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/fees-and-payments/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Fees and Payments</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6d7d24a e-flex e-con-boxed e-con e-parent" data-id="6d7d24a" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7388677 elementor-widget elementor-widget-heading" data-id="7388677" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Why Study With Us?</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-900a05c e-con-full e-flex e-con e-child" data-id="900a05c" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-ad22fd9 elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget elementor-widget-n-carousel" data-id="ad22fd9" data-element_type="widget" data-settings="{&quot;carousel_items&quot;:[{&quot;slide_title&quot;:&quot;Slide #1&quot;,&quot;_id&quot;:&quot;dc26fb1&quot;},{&quot;slide_title&quot;:&quot;Slide #1&quot;,&quot;_id&quot;:&quot;c9b567b&quot;},{&quot;slide_title&quot;:&quot;Slide #4&quot;,&quot;_id&quot;:&quot;ff9bc28&quot;},{&quot;slide_title&quot;:&quot;Slide #4&quot;,&quot;_id&quot;:&quot;5838331&quot;},{&quot;slide_title&quot;:&quot;Slide #4&quot;,&quot;_id&quot;:&quot;002d122&quot;},{&quot;slide_title&quot;:&quot;Slide #4&quot;,&quot;_id&quot;:&quot;f0758e2&quot;},{&quot;slide_title&quot;:&quot;Slide #1&quot;,&quot;_id&quot;:&quot;609a638&quot;}],&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_tablet&quot;:&quot;1&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;offset_sides&quot;:&quot;none&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="nested-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="e-n-carousel swiper" role="region" aria-roledescription="carousel" aria-label="Carousel" dir="ltr">
+			<div class="swiper-wrapper" aria-live="off">
+										<div class="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 of 7">
+							<div class="elementor-element elementor-element-94eff5b e-con-full e-flex e-con e-child" data-id="94eff5b" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-3f8835d e-con-full e-flex e-con e-child" data-id="3f8835d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-e441b0e e-flex e-con-boxed e-con e-child" data-id="e441b0e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-d3e9750 e-flex e-con-boxed e-con e-child" data-id="d3e9750" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-a5cd680 elementor-widget elementor-widget-button" data-id="a5cd680" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">01</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-be8d11a elementor-widget elementor-widget-heading" data-id="be8d11a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Sustained provision of Industry-relevant &amp; Globally-recognized Academic 	and Professional Programmes</h6>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2f80508 e-con-full e-flex e-con e-child" data-id="2f80508" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-7b8c076 elementor-widget elementor-widget-text-editor" data-id="7b8c076" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="font-weight: 400;">At UoK, you can choose from our wide range of industry-relevant and globally recognised academic and professional programmes. These include undergraduate, graduate, professional, language, and executive programmes in fields such as Business Information Technology, Marketing, Accounting, Finance, Economics, Law, Procurement &amp; Supply Chain Management, Computer Science, Information Technology, Business Administration, Early Childhood Development Education, CPA (Rwanda), CPA (Kenya), ACCA, CIPS, CIA, IPSAS, and more.</span></p>								</div>
+				</div>
+				</div>
+				</div>
+								</div>
+											<div class="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 of 7">
+							<div class="elementor-element elementor-element-bb53aaa e-con-full e-flex e-con e-child" data-id="bb53aaa" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-2ec5656 e-con-full e-flex e-con e-child" data-id="2ec5656" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-448f91a e-flex e-con-boxed e-con e-child" data-id="448f91a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7d88c02 e-flex e-con-boxed e-con e-child" data-id="7d88c02" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2562443 elementor-widget elementor-widget-button" data-id="2562443" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">02</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-3c2b32c elementor-widget elementor-widget-heading" data-id="3c2b32c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Multiple Campuses and Easily-accessible Locations</h6>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-82ca593 e-con-full e-flex e-con e-child" data-id="82ca593" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-48ed6de elementor-widget elementor-widget-text-editor" data-id="48ed6de" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>University of Kigali has 2 campuses situated at vantage locations in Rwanda. The university’s main campus is located in Kigali, next to the plush Kigali Heights and about 3 kilometers from the Kigali City Centre. The second campus is located within the RSSB Building in Musanze, in the northern district. These campuses and locations make it easy for local as well as international students to access quality higher education at UoK.</p>								</div>
+				</div>
+				</div>
+				</div>
+								</div>
+											<div class="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 of 7">
+							<div class="elementor-element elementor-element-008da3d e-con-full e-flex e-con e-child" data-id="008da3d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-f6cb9fc e-con-full e-flex e-con e-child" data-id="f6cb9fc" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-6e6e153 e-flex e-con-boxed e-con e-child" data-id="6e6e153" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-71944bd e-flex e-con-boxed e-con e-child" data-id="71944bd" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e5ba87f elementor-widget elementor-widget-button" data-id="e5ba87f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">03</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-3a300f5 elementor-widget elementor-widget-heading" data-id="3a300f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Six World-class &amp; Well-equipped Schools</h6>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-220fe1f e-con-full e-flex e-con e-child" data-id="220fe1f" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-b147fd5 elementor-widget elementor-widget-text-editor" data-id="b147fd5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>UoK has six world-class and well-equipped schools which use effective and globally-acclaimed resources to deliver excellent academic services to students in diverse fields of study. The schools are:</p><ul><li>Graduate School</li><li>School of Business Management &amp; Economics</li><li>School of Computing &amp; Information Technology</li><li>School of Education</li><li>School of Law</li><li>School of Professional and Executive Programmes.</li></ul>								</div>
+				</div>
+				</div>
+				</div>
+								</div>
+											<div class="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 of 7">
+							<div class="elementor-element elementor-element-dfe4dd2 e-con-full e-flex e-con e-child" data-id="dfe4dd2" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-3c258be e-con-full e-flex e-con e-child" data-id="3c258be" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-a89da49 e-flex e-con-boxed e-con e-child" data-id="a89da49" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-60aa95e e-flex e-con-boxed e-con e-child" data-id="60aa95e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-21f46bd elementor-widget elementor-widget-button" data-id="21f46bd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">04</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-0196ba8 elementor-widget elementor-widget-heading" data-id="0196ba8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Experienced and Diverse Faculty</h6>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-025a944 e-con-full e-flex e-con e-child" data-id="025a944" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-2730444 elementor-widget elementor-widget-text-editor" data-id="2730444" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>UoK has diverse and experienced faculty from Rwanda, India, Kenya, Uganda, Nigeria, United Kingdom and United States of America. Currently, our programme modules are taught by 9 Professors and 32 PhD-holders in various disciplines, with exposure from different parts of the world and vast experience in both industry practice and academia.</p>								</div>
+				</div>
+				</div>
+				</div>
+								</div>
+											<div class="swiper-slide" data-slide="5" role="group" aria-roledescription="slide" aria-label="5 of 7">
+							<div class="elementor-element elementor-element-48a4abd e-con-full e-flex e-con e-child" data-id="48a4abd" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-88a446c e-con-full e-flex e-con e-child" data-id="88a446c" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-117239a e-flex e-con-boxed e-con e-child" data-id="117239a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-21da577 e-flex e-con-boxed e-con e-child" data-id="21da577" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e1990fa elementor-widget elementor-widget-button" data-id="e1990fa" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">05</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-c665760 elementor-widget elementor-widget-heading" data-id="c665760" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">International Partnerships</h6>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b236eb2 e-con-full e-flex e-con e-child" data-id="b236eb2" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-aea8bd6 elementor-widget elementor-widget-text-editor" data-id="aea8bd6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>UoK believes in diversity, creation and dissemination of critical knowledge embedded in the wealth and potential of the region and the world. Consequently, we have partnered with reputable universities and institutions in Kenya, Uganda, India, South Africa, Germany, Italy, Canada, UK, Poland and Ghana among others to give students and staff international exchange opportunities. Some of our exchange programmes are AIESEC, Erasmus and Erasmus+ through the support of the European Union.</p>								</div>
+				</div>
+				</div>
+				</div>
+								</div>
+											<div class="swiper-slide" data-slide="6" role="group" aria-roledescription="slide" aria-label="6 of 7">
+							<div class="elementor-element elementor-element-9b3ec69 e-con-full e-flex e-con e-child" data-id="9b3ec69" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-d73c46d e-con-full e-flex e-con e-child" data-id="d73c46d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-e0400d5 e-flex e-con-boxed e-con e-child" data-id="e0400d5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-72aad28 e-flex e-con-boxed e-con e-child" data-id="72aad28" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-68a50bf elementor-widget elementor-widget-button" data-id="68a50bf" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">06</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-2adff26 elementor-widget elementor-widget-heading" data-id="2adff26" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Massive International Student Population</h6>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-cf0a351 e-con-full e-flex e-con e-child" data-id="cf0a351" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-f3c4102 elementor-widget elementor-widget-text-editor" data-id="f3c4102" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>As a university of choice for international students with a passionate drive towards internationalization and excellence, UoK has an international office which is solely responsible for the welfare of international students from the time of entry till they graduate. Currently, we have students from Angola, Nigeria, Gabon, Ivory Coast, Ethiopia, Sierra Leone, Malawi, China, Turkey, Burundi, Uganda, Kenya, DR Congo, India, Chad, etc.</p>								</div>
+				</div>
+				</div>
+				</div>
+								</div>
+											<div class="swiper-slide" data-slide="7" role="group" aria-roledescription="slide" aria-label="7 of 7">
+							<div class="elementor-element elementor-element-55c74ec e-con-full e-flex e-con e-child" data-id="55c74ec" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-35efc26 e-con-full e-flex e-con e-child" data-id="35efc26" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-c6d5534 e-flex e-con-boxed e-con e-child" data-id="c6d5534" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f741f60 e-flex e-con-boxed e-con e-child" data-id="f741f60" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-62bedea elementor-widget elementor-widget-button" data-id="62bedea" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">07</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-a334166 elementor-widget elementor-widget-heading" data-id="a334166" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Flexible Payment Plan &amp; Platforms</h6>				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e767f44 e-con-full e-flex e-con e-child" data-id="e767f44" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-31d79ae elementor-widget elementor-widget-text-editor" data-id="31d79ae" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>University of Kigali has a flexible plan for tuition fee payment which allows students to pay fees either on monthly basis, per trimester or annually. There are also modern and flexible payment modes such as local and foreign bank transfers as well as mobile platforms.</p>								</div>
+				</div>
+				</div>
+				</div>
+								</div>
+								</div>
+		</div>
+					<div class="swiper-pagination"></div>
+						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f018673 e-flex e-con-boxed e-con e-parent" data-id="f018673" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-30d5329 e-flex e-con-boxed e-con e-child" data-id="30d5329" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8af90c3 elementor-widget elementor-widget-heading" data-id="8af90c3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Start Your Journey at UoK</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-aeaf12c elementor-widget elementor-widget-button" data-id="aeaf12c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://admissions.uok.ac.rw/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Apply Now</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-504fc3c e-flex e-con-boxed e-con e-parent" data-id="504fc3c" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-287c66a e-con-full e-flex e-con e-child" data-id="287c66a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-65db56c e-con-full e-flex e-con e-child" data-id="65db56c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-1cc9eb2 elementor-widget elementor-widget-heading" data-id="1cc9eb2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">UoK at a Glance</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-25b3a6d elementor-widget elementor-widget-jet-table" data-id="25b3a6d" data-element_type="widget" data-widget_type="jet-table.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-jet-table jet-elements">
+		<div class="jet-table-wrapper jet-table-responsive-mobile">
+			<table class="jet-table jet-table--fa5-compat">
+				<thead class="jet-table__head"><tr class="jet-table__head-row"><th class="jet-table__cell elementor-repeater-item-c0ebbf9 jet-table__head-cell" scope="col"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">8K+</div></div></div></th><th class="jet-table__cell elementor-repeater-item-8fa15b5 jet-table__head-cell" scope="col"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">9K+</div></div></div></th><th class="jet-table__cell elementor-repeater-item-f87b776 jet-table__head-cell" scope="col"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">30+</div></div></div></th><th class="jet-table__cell elementor-repeater-item-604607e jet-table__head-cell" scope="col"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">8</div></div></div></th></tr></thead>
+								<tbody class="jet-table__body"><tr class="jet-table__body-row elementor-repeater-item-538fd44"><td class="jet-table__cell elementor-repeater-item-4653c9d jet-table__body-cell"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">Students</div></div></div></td><td class="jet-table__cell elementor-repeater-item-ec7c49f jet-table__body-cell"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">Alumni</div></div></div></td><td class="jet-table__cell elementor-repeater-item-ee1e3c8 jet-table__body-cell"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">Nationalities</div></div></div></td><td class="jet-table__cell elementor-repeater-item-61b342c jet-table__body-cell"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">Graduations</div></div></div></td></tr></tbody>
+			</table>
+		</div>
+
+		</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-debc948 elementor-widget elementor-widget-jet-table" data-id="debc948" data-element_type="widget" data-widget_type="jet-table.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-jet-table jet-elements">
+		<div class="jet-table-wrapper jet-table-responsive-mobile">
+			<table class="jet-table jet-table--fa5-compat">
+				<thead class="jet-table__head"><tr class="jet-table__head-row"><th class="jet-table__cell elementor-repeater-item-c0ebbf9 jet-table__head-cell" scope="col"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">700+</div></div></div></th><th class="jet-table__cell elementor-repeater-item-8fa15b5 jet-table__head-cell" scope="col"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">28</div></div></div></th><th class="jet-table__cell elementor-repeater-item-f87b776 jet-table__head-cell" scope="col"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">34</div></div></div></th></tr></thead>
+								<tbody class="jet-table__body"><tr class="jet-table__body-row elementor-repeater-item-538fd44"><td class="jet-table__cell elementor-repeater-item-4653c9d jet-table__body-cell"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">International Students</div></div></div></td><td class="jet-table__cell elementor-repeater-item-ec7c49f jet-table__body-cell"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">Academic Programmes</div></div></div></td><td class="jet-table__cell elementor-repeater-item-ee1e3c8 jet-table__body-cell"><div class="jet-table__cell-inner"><div class="jet-table__cell-content"><div class="jet-table__cell-text">Awards Won</div></div></div></td></tr></tbody>
+			</table>
+		</div>
+
+		</div>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fa56e1c e-con-full e-flex e-con e-child" data-id="fa56e1c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-079f8b3 elementor-widget elementor-widget-image" data-id="079f8b3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1600" height="1220" src="https://uok.ac.rw/wp-content/uploads/2024/08/view-from-road-scaled-e1724394848294.jpg" class="attachment-full size-full wp-image-6426" alt="" srcset="https://uok.ac.rw/wp-content/uploads/2024/08/view-from-road-scaled-e1724394848294.jpg 1600w, https://uok.ac.rw/wp-content/uploads/2024/08/view-from-road-scaled-e1724394848294-300x229.jpg 300w, https://uok.ac.rw/wp-content/uploads/2024/08/view-from-road-scaled-e1724394848294-1024x781.jpg 1024w, https://uok.ac.rw/wp-content/uploads/2024/08/view-from-road-scaled-e1724394848294-768x586.jpg 768w, https://uok.ac.rw/wp-content/uploads/2024/08/view-from-road-scaled-e1724394848294-1536x1171.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c3c4503 e-flex e-con-boxed e-con e-parent" data-id="c3c4503" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7c11d92 elementor-widget elementor-widget-heading" data-id="7c11d92" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Latest News And Events</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d4c8050 e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="d4c8050" data-element_type="widget" data-settings="{&quot;tabs_justify_horizontal&quot;:&quot;center&quot;,&quot;horizontal_scroll&quot;:&quot;disable&quot;}" data-widget_type="nested-tabs.default">
+				<div class="elementor-widget-container">
+							<div class="e-n-tabs" data-widget-number="223117392" aria-label="Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys.">
+			<div class="e-n-tabs-heading" role="tablist">
+					<button id="e-n-tab-title-2231173921" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-2231173921" style="--n-tabs-title-order: 1;">
+						<span class="e-n-tab-title-text">
+				News			</span>
+		</button>
+				<button id="e-n-tab-title-2231173922" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-2231173922" style="--n-tabs-title-order: 2;">
+						<span class="e-n-tab-title-text">
+				Events			</span>
+		</button>
+					</div>
+			<div class="e-n-tabs-content">
+				<div id="e-n-tab-content-2231173921" role="tabpanel" aria-labelledby="e-n-tab-title-2231173921" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-d6cdcb3 e-con-full e-flex e-con e-child" data-id="d6cdcb3" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-5bc17c9 e-con-full e-flex e-con e-child" data-id="5bc17c9" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-a9bedd6 elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid" data-id="a9bedd6" data-element_type="widget" data-settings="{&quot;template_id&quot;:&quot;455&quot;,&quot;_skin&quot;:&quot;post&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;columns_tablet&quot;:&quot;2&quot;,&quot;columns_mobile&quot;:&quot;1&quot;,&quot;edit_handle_selector&quot;:&quot;[data-elementor-type=\&quot;loop-item\&quot;]&quot;,&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="loop-grid.post">
+				<div class="elementor-widget-container">
+							<div class="elementor-loop-container elementor-grid">
+		<style id="loop-dynamic-455">.e-loop-item-8744 .elementor-element.elementor-element-8b69f3f:not(.elementor-motion-effects-element-type-background), .e-loop-item-8744 .elementor-element.elementor-element-8b69f3f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://uok.ac.rw/wp-content/uploads/2025/04/2.jpg");}</style><style id="loop-455">.elementor-455 .elementor-element.elementor-element-983665d{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--overflow:hidden;--border-radius:5px 5px 5px 5px;box-shadow:0px 8px 24px 0px rgba(140, 148.99999999999997, 159, 0.2);--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-455 .elementor-element.elementor-element-983665d:not(.elementor-motion-effects-element-type-background), .elementor-455 .elementor-element.elementor-element-983665d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-4fb1054 );}.elementor-455 .elementor-element.elementor-element-b86e481{--display:flex;--min-height:250px;--overflow:hidden;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-455 .elementor-element.elementor-element-8b69f3f{--display:flex;--justify-content:space-evenly;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-455 .elementor-element.elementor-element-8b69f3f:not(.elementor-motion-effects-element-type-background), .elementor-455 .elementor-element.elementor-element-8b69f3f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:top center;background-repeat:no-repeat;background-size:cover;}.elementor-455 .elementor-element.elementor-element-8b69f3f.e-con{--flex-grow:1;--flex-shrink:0;}.elementor-455 .elementor-element.elementor-element-89fdb12{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-455 .elementor-element.elementor-element-89fdb12.e-con{--flex-grow:1;--flex-shrink:0;}.elementor-455 .elementor-element.elementor-element-9690f96{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:space-between;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:15px;--padding-left:0px;--padding-right:0px;}.elementor-455 .elementor-element.elementor-element-9690f96.e-con{--flex-grow:1;--flex-shrink:0;}.elementor-455 .elementor-element.elementor-element-6eec54d{--display:flex;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:10px;--padding-bottom:10px;--padding-left:15px;--padding-right:15px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-455 .elementor-element.elementor-element-294394e{font-family:"Source Sans Pro", Sans-serif;font-size:20px;font-weight:500;line-height:30px;}.elementor-455 .elementor-element.elementor-element-030d705{--display:flex;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:10px;--padding-bottom:0px;--padding-left:15px;--padding-right:15px;}.elementor-455 .elementor-element.elementor-element-306a1c8 .jet-listing-dynamic-field__content{color:#414A4CB3;font-style:normal;text-align:left;}.elementor-455 .elementor-element.elementor-element-306a1c8 .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:auto;}.elementor-455 .elementor-element.elementor-element-306a1c8 .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:auto;}.elementor-455 .elementor-element.elementor-element-306a1c8 .jet-listing-dynamic-field{justify-content:flex-start;}@media(max-width:1024px){.elementor-455 .elementor-element.elementor-element-b86e481{--min-height:200px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-455 .elementor-element.elementor-element-8b69f3f{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-455 .elementor-element.elementor-element-8b69f3f.e-con{--flex-grow:1;--flex-shrink:0;}.elementor-455 .elementor-element.elementor-element-89fdb12{--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-455 .elementor-element.elementor-element-89fdb12.e-con{--flex-grow:1;--flex-shrink:0;}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-455 .elementor-element.elementor-element-294394e{line-height:30px;}}@media(max-width:767px){.elementor-455 .elementor-element.elementor-element-b86e481{--min-height:200px;}.elementor-455 .elementor-element.elementor-element-8b69f3f{--min-height:150px;}.elementor-455 .elementor-element.elementor-element-8b69f3f.e-con{--flex-grow:1;--flex-shrink:0;}.elementor-455 .elementor-element.elementor-element-89fdb12{--min-height:150px;}.elementor-455 .elementor-element.elementor-element-89fdb12.e-con{--flex-grow:1;--flex-shrink:0;}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-455 .elementor-element.elementor-element-294394e{line-height:24px;}}/* Start custom CSS for container, class: .elementor-element-9690f96 */.elementor-455 .elementor-element.elementor-element-9690f96 .iwe{
+    background-color: rgb(112, 20, 46, 1)
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-983665d */.elementor-455 .elementor-element.elementor-element-983665d:hover .img {
+    transform: scale(1.1);
+}
+
+
+.elementor-455 .elementor-element.elementor-element-983665d:hover .cover{
+    background-color: rgb(112, 20, 46, 0.15)
+}
+
+.elementor-455 .elementor-element.elementor-element-983665d:hover .news-title{
+    color: rgb(112, 20, 46)!important;
+    text-decoration: underline;
+    
+}
+
+.elementor-455 .elementor-element.elementor-element-983665d .iwe{
+    max-height: 200px!important;
+}/* End custom CSS */</style>		<div data-elementor-type="loop-item" data-elementor-id="455" class="elementor elementor-455 e-loop-item e-loop-item-8744 post-8744 news type-news status-publish has-post-thumbnail hentry news-categories-centre-for-applied-logistics-and-supply-chain-management news-categories-uok-news" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-983665d e-con-full e-flex e-con e-parent" data-id="983665d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<a class="elementor-element elementor-element-b86e481 e-flex e-con-boxed e-con e-child" data-id="b86e481" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/news/empowering-the-future-of-logistics-and-supply-chain-management/">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-8b69f3f img e-flex e-con-boxed e-con e-child" data-id="8b69f3f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-89fdb12 cover e-flex e-con-boxed e-con e-child" data-id="89fdb12" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</a>
+		<div class="elementor-element elementor-element-9690f96 e-con-full e-flex e-con e-child" data-id="9690f96" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<a class="elementor-element elementor-element-6eec54d e-con-full e-flex e-con e-child" data-id="6eec54d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/news/empowering-the-future-of-logistics-and-supply-chain-management/">
+				<div class="elementor-element elementor-element-294394e news-title elementor-widget elementor-widget-text-editor" data-id="294394e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Empowering the Future of Logistics and Supply Chain Management								</div>
+				</div>
+				</a>
+		<a class="elementor-element elementor-element-030d705 e-con-full e-flex e-con e-child" data-id="030d705" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/news/empowering-the-future-of-logistics-and-supply-chain-management/">
+				<div class="elementor-element elementor-element-306a1c8 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="306a1c8" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">April 8, 2025</div></div></div>				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+		<style id="loop-dynamic-455">.e-loop-item-8669 .elementor-element.elementor-element-8b69f3f:not(.elementor-motion-effects-element-type-background), .e-loop-item-8669 .elementor-element.elementor-element-8b69f3f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://uok.ac.rw/wp-content/uploads/2025/03/No-2-Pic-2-scaled.jpg");}</style>		<div data-elementor-type="loop-item" data-elementor-id="455" class="elementor elementor-455 e-loop-item e-loop-item-8669 post-8669 news type-news status-publish has-post-thumbnail hentry news-categories-partnership-news news-categories-uok-news" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-983665d e-con-full e-flex e-con e-parent" data-id="983665d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<a class="elementor-element elementor-element-b86e481 e-flex e-con-boxed e-con e-child" data-id="b86e481" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/news/empowering-future-professionals/">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-8b69f3f img e-flex e-con-boxed e-con e-child" data-id="8b69f3f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-89fdb12 cover e-flex e-con-boxed e-con e-child" data-id="89fdb12" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</a>
+		<div class="elementor-element elementor-element-9690f96 e-con-full e-flex e-con e-child" data-id="9690f96" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<a class="elementor-element elementor-element-6eec54d e-con-full e-flex e-con e-child" data-id="6eec54d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/news/empowering-future-professionals/">
+				<div class="elementor-element elementor-element-294394e news-title elementor-widget elementor-widget-text-editor" data-id="294394e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Empowering future Professionals								</div>
+				</div>
+				</a>
+		<a class="elementor-element elementor-element-030d705 e-con-full e-flex e-con e-child" data-id="030d705" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/news/empowering-future-professionals/">
+				<div class="elementor-element elementor-element-306a1c8 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="306a1c8" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">March 27, 2025</div></div></div>				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+		<style id="loop-dynamic-455">.e-loop-item-8644 .elementor-element.elementor-element-8b69f3f:not(.elementor-motion-effects-element-type-background), .e-loop-item-8644 .elementor-element.elementor-element-8b69f3f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://uok.ac.rw/wp-content/uploads/2025/03/54381050525_671a094cfd_o-2-scaled.jpg");}</style>		<div data-elementor-type="loop-item" data-elementor-id="455" class="elementor elementor-455 e-loop-item e-loop-item-8644 post-8644 news type-news status-publish has-post-thumbnail hentry news-categories-uok-news" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-983665d e-con-full e-flex e-con e-parent" data-id="983665d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<a class="elementor-element elementor-element-b86e481 e-flex e-con-boxed e-con e-child" data-id="b86e481" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/news/sustainable-supply-chain-management-side-session-launch-of-the-centre-of-applied-logistics-and-supply-chain-management/">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-8b69f3f img e-flex e-con-boxed e-con e-child" data-id="8b69f3f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-89fdb12 cover e-flex e-con-boxed e-con e-child" data-id="89fdb12" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</a>
+		<div class="elementor-element elementor-element-9690f96 e-con-full e-flex e-con e-child" data-id="9690f96" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<a class="elementor-element elementor-element-6eec54d e-con-full e-flex e-con e-child" data-id="6eec54d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/news/sustainable-supply-chain-management-side-session-launch-of-the-centre-of-applied-logistics-and-supply-chain-management/">
+				<div class="elementor-element elementor-element-294394e news-title elementor-widget elementor-widget-text-editor" data-id="294394e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Sustainable Supply Chain Management side session &#038; Launch of the Centre of Applied Logistics and Supply Chain Management								</div>
+				</div>
+				</a>
+		<a class="elementor-element elementor-element-030d705 e-con-full e-flex e-con e-child" data-id="030d705" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/news/sustainable-supply-chain-management-side-session-launch-of-the-centre-of-applied-logistics-and-supply-chain-management/">
+				<div class="elementor-element elementor-element-306a1c8 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="306a1c8" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">March 26, 2025</div></div></div>				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+				</div>
+		
+						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f6e450d elementor-widget elementor-widget-button" data-id="f6e450d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/news/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View More Articles</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-2231173922" role="tabpanel" aria-labelledby="e-n-tab-title-2231173922" data-tab-index="2" style="--n-tabs-title-order: 2;" class=" elementor-element elementor-element-eecc89b e-con-full e-flex e-con e-child" data-id="eecc89b" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-54a5c9f e-con-full e-flex e-con e-child" data-id="54a5c9f" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-515a34d elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid" data-id="515a34d" data-element_type="widget" data-settings="{&quot;template_id&quot;:&quot;472&quot;,&quot;row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;_skin&quot;:&quot;post&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;columns_tablet&quot;:&quot;2&quot;,&quot;columns_mobile&quot;:&quot;1&quot;,&quot;edit_handle_selector&quot;:&quot;[data-elementor-type=\&quot;loop-item\&quot;]&quot;,&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="loop-grid.post">
+				<div class="elementor-widget-container">
+							<div class="elementor-loop-container elementor-grid">
+		<style id="loop-dynamic-472">.e-loop-item-8717 .elementor-element.elementor-element-6df2535:not(.elementor-motion-effects-element-type-background), .e-loop-item-8717 .elementor-element.elementor-element-6df2535 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://uok.ac.rw/wp-content/uploads/2025/04/PHOTO-2025-04-03-00-00-09.jpg");}</style><style id="loop-472">.elementor-472 .elementor-element.elementor-element-3b10acf{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:stretch;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--overflow:hidden;--border-radius:5px 5px 5px 5px;box-shadow:0px 8px 24px 0px rgba(140, 148.99999999999997, 159, 0.2);--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-3b10acf:not(.elementor-motion-effects-element-type-background), .elementor-472 .elementor-element.elementor-element-3b10acf > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-4fb1054 );}.elementor-472 .elementor-element.elementor-element-f93b49f{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-evenly;--overflow:hidden;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-6df2535{--display:flex;--min-height:200px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-6df2535:not(.elementor-motion-effects-element-type-background), .elementor-472 .elementor-element.elementor-element-6df2535 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-472 .elementor-element.elementor-element-7961a1d{--display:flex;--min-height:200px;--justify-content:flex-end;--padding-top:15px;--padding-bottom:15px;--padding-left:15px;--padding-right:15px;}.elementor-472 .elementor-element.elementor-element-4f0d2f5{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-3ee52ee{--display:flex;--gap:02px 0px;--row-gap:02px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-3638c6a{--display:flex;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:5px 05px 0px 0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-3638c6a:not(.elementor-motion-effects-element-type-background), .elementor-472 .elementor-element.elementor-element-3638c6a > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-472 .elementor-element.elementor-element-153f41b > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-472 .elementor-element.elementor-element-153f41b .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:auto;}.elementor-472 .elementor-element.elementor-element-153f41b .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:auto;}.elementor-472 .elementor-element.elementor-element-153f41b .jet-listing-dynamic-field{justify-content:flex-start;}.elementor-472 .elementor-element.elementor-element-153f41b .jet-listing-dynamic-field__content{text-align:center;}.elementor-472 .elementor-element.elementor-element-7040d05{--display:flex;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 05px 05px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-7040d05:not(.elementor-motion-effects-element-type-background), .elementor-472 .elementor-element.elementor-element-7040d05 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-472 .elementor-element.elementor-element-76ce8d4 .jet-listing-dynamic-field__content{font-family:"Source Sans Pro", Sans-serif;font-size:30px;font-weight:700;line-height:40px;text-align:center;}.elementor-472 .elementor-element.elementor-element-76ce8d4 .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:100%;}.elementor-472 .elementor-element.elementor-element-76ce8d4 .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:100%;}.elementor-472 .elementor-element.elementor-element-76ce8d4 .jet-listing-dynamic-field{justify-content:flex-start;}.elementor-472 .elementor-element.elementor-element-76ce8d4 .jet-listing-dynamic-field.display-multiline{padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;border-radius:0px 0px 0px 0px;}.elementor-472 .elementor-element.elementor-element-76ce8d4 .jet-listing-dynamic-field.display-inline .jet-listing-dynamic-field__inline-wrap{padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;border-radius:0px 0px 0px 0px;}.elementor-472 .elementor-element.elementor-element-76ce8d4 .jet-listing-dynamic-field__icon{font-size:0px;}.elementor-472 .elementor-element.elementor-element-33131e4{--display:flex;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--align-items:stretch;--gap:015px 0px;--row-gap:015px;--column-gap:0px;--padding-top:15px;--padding-bottom:15px;--padding-left:15px;--padding-right:15px;}.elementor-472 .elementor-element.elementor-element-33131e4:not(.elementor-motion-effects-element-type-background), .elementor-472 .elementor-element.elementor-element-33131e4 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-4fb1054 );}.elementor-472 .elementor-element.elementor-element-abb71ba{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--overflow:hidden;--border-radius:5px 5px 5px 5px;box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.1);--margin-top:-12%;--margin-bottom:0%;--margin-left:0%;--margin-right:0%;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;--z-index:10;}.elementor-472 .elementor-element.elementor-element-abb71ba:not(.elementor-motion-effects-element-type-background), .elementor-472 .elementor-element.elementor-element-abb71ba > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-4fb1054 );}.elementor-472 .elementor-element.elementor-element-2c1cd42{--display:flex;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:5px 05px 0px 0px;--padding-top:05px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-2c1cd42:not(.elementor-motion-effects-element-type-background), .elementor-472 .elementor-element.elementor-element-2c1cd42 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#2E7BF133;}.elementor-472 .elementor-element.elementor-element-dda07ab > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-472 .elementor-element.elementor-element-dda07ab .jet-listing-dynamic-field__content{color:var( --e-global-color-text );text-align:center;}.elementor-472 .elementor-element.elementor-element-dda07ab .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:auto;}.elementor-472 .elementor-element.elementor-element-dda07ab .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:auto;}.elementor-472 .elementor-element.elementor-element-dda07ab .jet-listing-dynamic-field{justify-content:flex-start;}.elementor-472 .elementor-element.elementor-element-37d7158{--display:flex;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 05px 05px;--padding-top:0px;--padding-bottom:05px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-37d7158:not(.elementor-motion-effects-element-type-background), .elementor-472 .elementor-element.elementor-element-37d7158 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#2E7BF133;}.elementor-472 .elementor-element.elementor-element-eb138e0 .jet-listing-dynamic-field__content{color:var( --e-global-color-text );font-family:"Source Sans Pro", Sans-serif;font-size:30px;font-weight:700;line-height:40px;text-align:center;}.elementor-472 .elementor-element.elementor-element-eb138e0 .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:100%;}.elementor-472 .elementor-element.elementor-element-eb138e0 .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:100%;}.elementor-472 .elementor-element.elementor-element-eb138e0 .jet-listing-dynamic-field{justify-content:flex-start;}.elementor-472 .elementor-element.elementor-element-eb138e0 .jet-listing-dynamic-field.display-multiline{padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;border-radius:0px 0px 0px 0px;}.elementor-472 .elementor-element.elementor-element-eb138e0 .jet-listing-dynamic-field.display-inline .jet-listing-dynamic-field__inline-wrap{padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;border-radius:0px 0px 0px 0px;}.elementor-472 .elementor-element.elementor-element-eb138e0 .jet-listing-dynamic-field__icon{font-size:0px;}.elementor-472 .elementor-element.elementor-element-0f37068{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-472 .elementor-element.elementor-element-e2a51ff .jet-listing-dynamic-field__content{font-family:"Montserrat", Sans-serif;font-size:14px;text-align:left;}.elementor-472 .elementor-element.elementor-element-e2a51ff .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:auto;}.elementor-472 .elementor-element.elementor-element-e2a51ff .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:auto;}.elementor-472 .elementor-element.elementor-element-e2a51ff .jet-listing-dynamic-field{justify-content:flex-start;}.elementor-472 .elementor-element.elementor-element-e116e44 .jet-listing-dynamic-field__content{font-family:"Montserrat", Sans-serif;font-size:14px;text-align:left;}.elementor-472 .elementor-element.elementor-element-e116e44 .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:auto;}.elementor-472 .elementor-element.elementor-element-e116e44 .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:auto;}.elementor-472 .elementor-element.elementor-element-e116e44 .jet-listing-dynamic-field{justify-content:flex-start;}.elementor-472 .elementor-element.elementor-element-575442c{--display:flex;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-472 .elementor-element.elementor-element-2ef3079{font-family:var( --e-global-typography-fedcbc1-font-family ), Sans-serif;font-size:var( --e-global-typography-fedcbc1-font-size );font-weight:var( --e-global-typography-fedcbc1-font-weight );line-height:var( --e-global-typography-fedcbc1-line-height );}@media(max-width:1024px){.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-472 .elementor-element.elementor-element-2ef3079{font-size:var( --e-global-typography-fedcbc1-font-size );line-height:var( --e-global-typography-fedcbc1-line-height );}}@media(min-width:768px){.elementor-472 .elementor-element.elementor-element-3b10acf{--width:100%;}.elementor-472 .elementor-element.elementor-element-f93b49f{--width:100%;}.elementor-472 .elementor-element.elementor-element-6df2535{--width:100%;}.elementor-472 .elementor-element.elementor-element-3ee52ee{--width:25%;}.elementor-472 .elementor-element.elementor-element-33131e4{--width:100%;}.elementor-472 .elementor-element.elementor-element-abb71ba{--width:25%;}.elementor-472 .elementor-element.elementor-element-575442c{--width:100%;}}@media(max-width:1024px) and (min-width:768px){.elementor-472 .elementor-element.elementor-element-abb71ba{--width:150px;}}@media(max-width:767px){.elementor-472 .elementor-element.elementor-element-abb71ba{--width:100px;}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-472 .elementor-element.elementor-element-2ef3079{font-size:var( --e-global-typography-fedcbc1-font-size );line-height:var( --e-global-typography-fedcbc1-line-height );}}/* Start custom CSS for jet-listing-dynamic-field, class: .elementor-element-153f41b */.elementor-472 .elementor-element.elementor-element-153f41b p{
+    margin: 0;
+    padding: 0px;
+}/* End custom CSS */
+/* Start custom CSS for jet-listing-dynamic-field, class: .elementor-element-dda07ab */.elementor-472 .elementor-element.elementor-element-dda07ab p{
+    margin: 0;
+    padding: 0px;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-33131e4 */.elementor-472 .elementor-element.elementor-element-33131e4 .iwe{
+    background-color: rgb(112, 20, 46, 1)
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-3b10acf */.elementor-472 .elementor-element.elementor-element-3b10acf .img {
+    background-size: cover;
+    background-position: center;
+    transition: all 0.3s ease;
+    
+}
+
+.elementor-472 .elementor-element.elementor-element-3b10acf:hover .img {
+    transform: scale(1.1);
+}
+
+.elementor-472 .elementor-element.elementor-element-3b10acf:hover .img .date {
+    transform: scale(0.909);
+}
+
+.elementor-472 .elementor-element.elementor-element-3b10acf:hover .cover{
+    background-color: rgb(112, 20, 46, 0.15)
+}
+
+.elementor-472 .elementor-element.elementor-element-3b10acf:hover .news-title{
+    color: rgb(112, 20, 46)!important;
+    text-decoration: underline;
+    
+}/* End custom CSS */</style>		<div data-elementor-type="loop-item" data-elementor-id="472" class="elementor elementor-472 e-loop-item e-loop-item-8717 post-8717 events type-events status-publish has-post-thumbnail hentry" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-3b10acf e-con-full e-flex e-con e-parent" data-id="3b10acf" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<a class="elementor-element elementor-element-f93b49f e-con-full e-flex e-con e-child" data-id="f93b49f" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/events/football-tournament/">
+		<div class="elementor-element elementor-element-6df2535 e-con-full img e-flex e-con e-child" data-id="6df2535" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-7961a1d e-con-full cover e-flex e-con e-child" data-id="7961a1d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-4f0d2f5 e-con-full date elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child" data-id="4f0d2f5" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-3ee52ee e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child" data-id="3ee52ee" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-3638c6a e-con-full e-flex e-con e-child" data-id="3638c6a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-153f41b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="153f41b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"></div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-7040d05 e-con-full e-flex e-con e-child" data-id="7040d05" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-76ce8d4 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="76ce8d4" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"></div></div></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</a>
+		<div class="elementor-element elementor-element-33131e4 e-con-full e-flex e-con e-child" data-id="33131e4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-abb71ba e-con-full e-flex e-con e-child" data-id="abb71ba" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-2c1cd42 e-con-full e-flex e-con e-child" data-id="2c1cd42" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-dda07ab elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dda07ab" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">April</div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-37d7158 e-con-full e-flex e-con e-child" data-id="37d7158" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-eb138e0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="eb138e0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"> 3</div></div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0f37068 e-con-full e-flex e-con e-child" data-id="0f37068" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-e2a51ff elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e2a51ff" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__icon is-svg-icon"><svg class="e-font-icon-svg e-fas-map-marker-alt" aria-hidden="true" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg></div><div class="jet-listing-dynamic-field__content">CFB, University of Rwanda, Gikondo</div></div></div>				</div>
+				<div class="elementor-element elementor-element-e116e44 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e116e44" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__icon is-svg-icon"><svg class="e-font-icon-svg e-far-clock" aria-hidden="true" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg></div><div class="jet-listing-dynamic-field__content">03:00 PM</div></div></div>				</div>
+				</div>
+		<a class="elementor-element elementor-element-575442c e-con-full e-flex e-con e-child" data-id="575442c" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/events/football-tournament/">
+				<div class="elementor-element elementor-element-2ef3079 news-title elementor-widget elementor-widget-text-editor" data-id="2ef3079" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Football Tournament								</div>
+				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+		<style id="loop-dynamic-472">.e-loop-item-8523 .elementor-element.elementor-element-6df2535:not(.elementor-motion-effects-element-type-background), .e-loop-item-8523 .elementor-element.elementor-element-6df2535 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://uok.ac.rw/wp-content/uploads/2025/03/pic-4.png");}</style>		<div data-elementor-type="loop-item" data-elementor-id="472" class="elementor elementor-472 e-loop-item e-loop-item-8523 post-8523 events type-events status-publish has-post-thumbnail hentry" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-3b10acf e-con-full e-flex e-con e-parent" data-id="3b10acf" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<a class="elementor-element elementor-element-f93b49f e-con-full e-flex e-con e-child" data-id="f93b49f" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/events/university-of-kigalis-it-school-to-host-six-ostrava-university-professors/">
+		<div class="elementor-element elementor-element-6df2535 e-con-full img e-flex e-con e-child" data-id="6df2535" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-7961a1d e-con-full cover e-flex e-con e-child" data-id="7961a1d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-4f0d2f5 e-con-full date elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child" data-id="4f0d2f5" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-3ee52ee e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child" data-id="3ee52ee" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-3638c6a e-con-full e-flex e-con e-child" data-id="3638c6a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-153f41b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="153f41b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"></div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-7040d05 e-con-full e-flex e-con e-child" data-id="7040d05" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-76ce8d4 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="76ce8d4" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"></div></div></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</a>
+		<div class="elementor-element elementor-element-33131e4 e-con-full e-flex e-con e-child" data-id="33131e4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-abb71ba e-con-full e-flex e-con e-child" data-id="abb71ba" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-2c1cd42 e-con-full e-flex e-con e-child" data-id="2c1cd42" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-dda07ab elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dda07ab" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">March</div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-37d7158 e-con-full e-flex e-con e-child" data-id="37d7158" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-eb138e0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="eb138e0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"> 24</div></div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0f37068 e-con-full e-flex e-con e-child" data-id="0f37068" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-e2a51ff elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e2a51ff" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__icon is-svg-icon"><svg class="e-font-icon-svg e-fas-map-marker-alt" aria-hidden="true" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg></div><div class="jet-listing-dynamic-field__content"></div></div></div>				</div>
+				<div class="elementor-element elementor-element-e116e44 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e116e44" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__icon is-svg-icon"><svg class="e-font-icon-svg e-far-clock" aria-hidden="true" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg></div><div class="jet-listing-dynamic-field__content">09:00 AM</div></div></div>				</div>
+				</div>
+		<a class="elementor-element elementor-element-575442c e-con-full e-flex e-con e-child" data-id="575442c" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/events/university-of-kigalis-it-school-to-host-six-ostrava-university-professors/">
+				<div class="elementor-element elementor-element-2ef3079 news-title elementor-widget elementor-widget-text-editor" data-id="2ef3079" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									University of Kigali&#8217;s IT School to Host Six Ostrava University Professors.								</div>
+				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="472" class="elementor elementor-472 e-loop-item e-loop-item-8619 post-8619 events type-events status-publish hentry" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-3b10acf e-con-full e-flex e-con e-parent" data-id="3b10acf" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<a class="elementor-element elementor-element-f93b49f e-con-full e-flex e-con e-child" data-id="f93b49f" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/events/needs-assessment-survey-for-phd-in-supply-chain-management/">
+		<div class="elementor-element elementor-element-6df2535 e-con-full img e-flex e-con e-child" data-id="6df2535" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-7961a1d e-con-full cover e-flex e-con e-child" data-id="7961a1d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-4f0d2f5 e-con-full date elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child" data-id="4f0d2f5" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-3ee52ee e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child" data-id="3ee52ee" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-3638c6a e-con-full e-flex e-con e-child" data-id="3638c6a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-153f41b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="153f41b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"></div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-7040d05 e-con-full e-flex e-con e-child" data-id="7040d05" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-76ce8d4 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="76ce8d4" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"></div></div></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</a>
+		<div class="elementor-element elementor-element-33131e4 e-con-full e-flex e-con e-child" data-id="33131e4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-abb71ba e-con-full e-flex e-con e-child" data-id="abb71ba" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-2c1cd42 e-con-full e-flex e-con e-child" data-id="2c1cd42" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-dda07ab elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dda07ab" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">March</div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-37d7158 e-con-full e-flex e-con e-child" data-id="37d7158" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-eb138e0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="eb138e0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"> 24</div></div></div>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0f37068 e-con-full e-flex e-con e-child" data-id="0f37068" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-e2a51ff elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e2a51ff" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__icon is-svg-icon"><svg class="e-font-icon-svg e-fas-map-marker-alt" aria-hidden="true" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path></svg></div><div class="jet-listing-dynamic-field__content"></div></div></div>				</div>
+				<div class="elementor-element elementor-element-e116e44 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e116e44" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__icon is-svg-icon"><svg class="e-font-icon-svg e-far-clock" aria-hidden="true" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"></path></svg></div><div class="jet-listing-dynamic-field__content">12:00 AM</div></div></div>				</div>
+				</div>
+		<a class="elementor-element elementor-element-575442c e-con-full e-flex e-con e-child" data-id="575442c" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}" href="https://uok.ac.rw/events/needs-assessment-survey-for-phd-in-supply-chain-management/">
+				<div class="elementor-element elementor-element-2ef3079 news-title elementor-widget elementor-widget-text-editor" data-id="2ef3079" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Needs Assessment Survey for PhD in Supply Chain Management. 								</div>
+				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+				</div>
+		
+						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9c4dfd2 elementor-widget elementor-widget-button" data-id="9c4dfd2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/events/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View More Events</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+					</div>
+		</div>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-25a8500 e-flex e-con-boxed e-con e-parent" data-id="25a8500" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7f8b907 elementor-widget elementor-widget-heading" data-id="7f8b907" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Important Dates</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-1fc41cb e-con-full e-flex e-con e-child" data-id="1fc41cb" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-a6f8c83 elementor-grid-mobile-1 elementor-grid-3 elementor-grid-tablet-2 elementor-widget elementor-widget-loop-grid" data-id="a6f8c83" data-element_type="widget" data-settings="{&quot;template_id&quot;:&quot;1488&quot;,&quot;columns_mobile&quot;:1,&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;_skin&quot;:&quot;post&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;columns_tablet&quot;:&quot;2&quot;,&quot;edit_handle_selector&quot;:&quot;[data-elementor-type=\&quot;loop-item\&quot;]&quot;,&quot;row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="loop-grid.post">
+				<div class="elementor-widget-container">
+							<div class="elementor-loop-container elementor-grid">
+		<style id="loop-1488">.elementor-1488 .elementor-element.elementor-element-98e692e{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:stretch;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--overflow:hidden;border-style:none;--border-style:none;--border-radius:5px 5px 5px 5px;box-shadow:0px 8px 24px 0px rgba(140, 148.99999999999997, 159, 0.2);--padding-top:8px;--padding-bottom:8px;--padding-left:8px;--padding-right:8px;}.elementor-1488 .elementor-element.elementor-element-98e692e:not(.elementor-motion-effects-element-type-background), .elementor-1488 .elementor-element.elementor-element-98e692e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-4fb1054 );}.elementor-1488 .elementor-element.elementor-element-a93f49e{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--overflow:hidden;--border-radius:3px 3px 3px 3px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1488 .elementor-element.elementor-element-a93f49e:not(.elementor-motion-effects-element-type-background), .elementor-1488 .elementor-element.elementor-element-a93f49e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#70142E26;}.elementor-1488 .elementor-element.elementor-element-9015c94{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1488 .elementor-element.elementor-element-552378d{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--gap:5px 0px;--row-gap:5px;--column-gap:0px;--border-radius:0px 0px 0px 0px;--padding-top:7px;--padding-bottom:7px;--padding-left:0px;--padding-right:0px;}.elementor-1488 .elementor-element.elementor-element-539e972{--display:flex;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1488 .elementor-element.elementor-element-bc80f17 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-1488 .elementor-element.elementor-element-bc80f17 .jet-listing-dynamic-field__content{color:var( --e-global-color-primary );text-align:center;}.elementor-1488 .elementor-element.elementor-element-bc80f17 .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:auto;}.elementor-1488 .elementor-element.elementor-element-bc80f17 .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:auto;}.elementor-1488 .elementor-element.elementor-element-bc80f17 .jet-listing-dynamic-field{justify-content:flex-start;}.elementor-1488 .elementor-element.elementor-element-dd7fa86{--display:flex;--align-items:center;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:0px 0px 0px 0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-1488 .elementor-element.elementor-element-2aa74e9 .jet-listing-dynamic-field__content{color:var( --e-global-color-primary );font-family:"Source Sans Pro", Sans-serif;font-size:30px;font-weight:700;line-height:40px;text-align:center;}.elementor-1488 .elementor-element.elementor-element-2aa74e9 .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:100%;}.elementor-1488 .elementor-element.elementor-element-2aa74e9 .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:100%;}.elementor-1488 .elementor-element.elementor-element-2aa74e9 .jet-listing-dynamic-field{justify-content:flex-start;}.elementor-1488 .elementor-element.elementor-element-2aa74e9 .jet-listing-dynamic-field.display-multiline{padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;border-radius:0px 0px 0px 0px;}.elementor-1488 .elementor-element.elementor-element-2aa74e9 .jet-listing-dynamic-field.display-inline .jet-listing-dynamic-field__inline-wrap{padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;border-radius:0px 0px 0px 0px;}.elementor-1488 .elementor-element.elementor-element-2aa74e9 .jet-listing-dynamic-field__icon{font-size:0px;}.elementor-1488 .elementor-element.elementor-element-173ac4a{--display:flex;--justify-content:flex-start;--gap:10px 0px;--row-gap:10px;--column-gap:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-1488 .elementor-element.elementor-element-ce25056{font-family:"Montserrat", Sans-serif;font-size:18px;font-weight:400;line-height:26px;}.elementor-1488 .elementor-element.elementor-element-b80e116 .jet-listing-dynamic-field__content{color:var( --e-global-color-text );font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:300;text-align:left;}.elementor-1488 .elementor-element.elementor-element-b80e116 .jet-listing-dynamic-field .jet-listing-dynamic-field__inline-wrap{width:auto;}.elementor-1488 .elementor-element.elementor-element-b80e116 .jet-listing-dynamic-field .jet-listing-dynamic-field__content{width:auto;}.elementor-1488 .elementor-element.elementor-element-b80e116 .jet-listing-dynamic-field{justify-content:flex-start;}@media(max-width:1024px){.elementor-1488 .elementor-element.elementor-element-98e692e{--gap:0px 15px;--row-gap:0px;--column-gap:15px;}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}@media(max-width:767px){.elementor-1488 .elementor-element.elementor-element-98e692e{--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:stretch;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--flex-wrap:wrap;--align-content:center;}.elementor-1488 .elementor-element.elementor-element-a93f49e{--width:20%;}.elementor-1488 .elementor-element.elementor-element-173ac4a{--width:77%;--justify-content:flex-start;}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-1488 .elementor-element.elementor-element-ce25056{font-size:16px;line-height:24px;}}@media(min-width:768px){.elementor-1488 .elementor-element.elementor-element-a93f49e{--width:20%;}.elementor-1488 .elementor-element.elementor-element-9015c94{--width:100%;}.elementor-1488 .elementor-element.elementor-element-173ac4a{--width:77%;}}@media(max-width:1024px) and (min-width:768px){.elementor-1488 .elementor-element.elementor-element-a93f49e{--width:80px;}}/* Start custom CSS for jet-listing-dynamic-field, class: .elementor-element-bc80f17 */.elementor-1488 .elementor-element.elementor-element-bc80f17 p{
+    margin: 0;
+    padding: 0px;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-ce25056 */.elementor-1488 .elementor-element.elementor-element-ce25056 p{
+    margin:0;
+}/* End custom CSS */</style>		<div data-elementor-type="loop-item" data-elementor-id="1488" class="elementor elementor-1488 e-loop-item e-loop-item-7339 post-7339 academic-calendar type-academic-calendar status-publish hentry academic-calendar-categories-key-dates" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-98e692e e-con-full e-flex e-con e-child" data-id="98e692e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-a93f49e e-con-full featured e-flex e-con e-child" data-id="a93f49e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-9015c94 e-con-full img e-flex e-con e-child" data-id="9015c94" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-552378d e-con-full cover e-flex e-con e-child" data-id="552378d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-539e972 e-con-full e-flex e-con e-child" data-id="539e972" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-bc80f17 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bc80f17" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Dec</div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-dd7fa86 e-con-full e-flex e-con e-child" data-id="dd7fa86" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-2aa74e9 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="2aa74e9" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"> 25</div></div></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<a class="elementor-element elementor-element-173ac4a e-con-full e-flex e-con e-child" data-id="173ac4a" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-ce25056 title elementor-widget elementor-widget-text-editor" data-id="ce25056" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Christmas Holiday								</div>
+				</div>
+				<div class="elementor-element elementor-element-b80e116 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="b80e116" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Wednesday, 25 December 2024</div></div></div>				</div>
+				</a>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="1488" class="elementor elementor-1488 e-loop-item e-loop-item-7340 post-7340 academic-calendar type-academic-calendar status-publish hentry academic-calendar-categories-key-dates" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-98e692e e-con-full e-flex e-con e-child" data-id="98e692e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-a93f49e e-con-full featured e-flex e-con e-child" data-id="a93f49e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-9015c94 e-con-full img e-flex e-con e-child" data-id="9015c94" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-552378d e-con-full cover e-flex e-con e-child" data-id="552378d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-539e972 e-con-full e-flex e-con e-child" data-id="539e972" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-bc80f17 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bc80f17" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Dec</div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-dd7fa86 e-con-full e-flex e-con e-child" data-id="dd7fa86" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-2aa74e9 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="2aa74e9" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"> 26</div></div></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<a class="elementor-element elementor-element-173ac4a e-con-full e-flex e-con e-child" data-id="173ac4a" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-ce25056 title elementor-widget elementor-widget-text-editor" data-id="ce25056" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Boxing Day.								</div>
+				</div>
+				<div class="elementor-element elementor-element-b80e116 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="b80e116" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Thursday, 26 December 2024</div></div></div>				</div>
+				</a>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="1488" class="elementor elementor-1488 e-loop-item e-loop-item-8066 post-8066 academic-calendar type-academic-calendar status-publish hentry academic-calendar-categories-key-dates" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-98e692e e-con-full e-flex e-con e-child" data-id="98e692e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-a93f49e e-con-full featured e-flex e-con e-child" data-id="a93f49e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-9015c94 e-con-full img e-flex e-con e-child" data-id="9015c94" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-552378d e-con-full cover e-flex e-con e-child" data-id="552378d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-539e972 e-con-full e-flex e-con e-child" data-id="539e972" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-bc80f17 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bc80f17" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Jan</div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-dd7fa86 e-con-full e-flex e-con e-child" data-id="dd7fa86" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-2aa74e9 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="2aa74e9" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"> 1</div></div></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<a class="elementor-element elementor-element-173ac4a e-con-full e-flex e-con e-child" data-id="173ac4a" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-ce25056 title elementor-widget elementor-widget-text-editor" data-id="ce25056" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									New Year								</div>
+				</div>
+				<div class="elementor-element elementor-element-b80e116 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="b80e116" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Wednesday, 01 January 2025</div></div></div>				</div>
+				</a>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="1488" class="elementor elementor-1488 e-loop-item e-loop-item-8065 post-8065 academic-calendar type-academic-calendar status-publish hentry academic-calendar-categories-key-dates" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-98e692e e-con-full e-flex e-con e-child" data-id="98e692e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-a93f49e e-con-full featured e-flex e-con e-child" data-id="a93f49e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-9015c94 e-con-full img e-flex e-con e-child" data-id="9015c94" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-552378d e-con-full cover e-flex e-con e-child" data-id="552378d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-539e972 e-con-full e-flex e-con e-child" data-id="539e972" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-bc80f17 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bc80f17" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Jan</div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-dd7fa86 e-con-full e-flex e-con e-child" data-id="dd7fa86" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-2aa74e9 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="2aa74e9" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"> 6</div></div></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<a class="elementor-element elementor-element-173ac4a e-con-full e-flex e-con e-child" data-id="173ac4a" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-ce25056 title elementor-widget elementor-widget-text-editor" data-id="ce25056" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Opening Day								</div>
+				</div>
+				<div class="elementor-element elementor-element-b80e116 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="b80e116" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Monday, 06 January 2025</div></div></div>				</div>
+				</a>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="1488" class="elementor elementor-1488 e-loop-item e-loop-item-8071 post-8071 academic-calendar type-academic-calendar status-publish hentry academic-calendar-categories-key-dates" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-98e692e e-con-full e-flex e-con e-child" data-id="98e692e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-a93f49e e-con-full featured e-flex e-con e-child" data-id="a93f49e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-9015c94 e-con-full img e-flex e-con e-child" data-id="9015c94" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-552378d e-con-full cover e-flex e-con e-child" data-id="552378d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-539e972 e-con-full e-flex e-con e-child" data-id="539e972" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-bc80f17 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bc80f17" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Jan</div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-dd7fa86 e-con-full e-flex e-con e-child" data-id="dd7fa86" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-2aa74e9 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="2aa74e9" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"> 6</div></div></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<a class="elementor-element elementor-element-173ac4a e-con-full e-flex e-con e-child" data-id="173ac4a" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-ce25056 title elementor-widget elementor-widget-text-editor" data-id="ce25056" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Module Registration								</div>
+				</div>
+				<div class="elementor-element elementor-element-b80e116 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="b80e116" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Monday, 06 January 2025</div></div></div>				</div>
+				</a>
+				</div>
+				</div>
+				<div data-elementor-type="loop-item" data-elementor-id="1488" class="elementor elementor-1488 e-loop-item e-loop-item-7326 post-7326 academic-calendar type-academic-calendar status-publish hentry academic-calendar-categories-key-dates" data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
+			<div class="elementor-element elementor-element-98e692e e-con-full e-flex e-con e-child" data-id="98e692e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-a93f49e e-con-full featured e-flex e-con e-child" data-id="a93f49e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-9015c94 e-con-full img e-flex e-con e-child" data-id="9015c94" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-552378d e-con-full cover e-flex e-con e-child" data-id="552378d" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-539e972 e-con-full e-flex e-con e-child" data-id="539e972" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-bc80f17 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bc80f17" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Jan</div></div></div>				</div>
+				</div>
+		<div class="elementor-element elementor-element-dd7fa86 e-con-full e-flex e-con e-child" data-id="dd7fa86" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-2aa74e9 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="2aa74e9" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content"> 13</div></div></div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<a class="elementor-element elementor-element-173ac4a e-con-full e-flex e-con e-child" data-id="173ac4a" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-ce25056 title elementor-widget elementor-widget-text-editor" data-id="ce25056" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									Module 1 Day Session.								</div>
+				</div>
+				<div class="elementor-element elementor-element-b80e116 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="b80e116" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">Monday, 13 January 2025</div></div></div>				</div>
+				</a>
+				</div>
+				</div>
+				</div>
+		
+						</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-95e003f elementor-widget elementor-widget-button" data-id="95e003f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/academic-calendar/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">View Full Academic Calendar</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6367fae e-flex e-con-boxed e-con e-parent" data-id="6367fae" data-element_type="container" id="partners" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2d64e8a elementor-widget elementor-widget-heading" data-id="2d64e8a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Our Partners</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7b29b1a elementor-testimonial--align-left elementor-testimonial--mobile-align-center elementor-testimonial--skin-default elementor-testimonial--layout-image_inline elementor-widget elementor-widget-testimonial-carousel" data-id="7b29b1a" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;4&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;speed&quot;:5500,&quot;lazyload&quot;:&quot;yes&quot;,&quot;slides_per_view_mobile&quot;:&quot;1&quot;,&quot;slides_per_view_tablet&quot;:&quot;3&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="testimonial-carousel.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-swiper">
+					<div class="elementor-main-swiper swiper" role="region" aria-roledescription="carousel" aria-label="Slides">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="272" height="120" src ="/wp-content/uploads/2024/06/Strathmore-e1717739054946.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="308" height="152" src ="/wp-content/uploads/2024/07/dhbw-logo.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="269" height="114" src ="/wp-content/uploads/2024/07/ho-logo-e1720976890231.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="268" height="115" src ="/wp-content/uploads/2024/07/upsa-logo-e1720977009432.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="308" height="158" src ="/wp-content/uploads/2024/07/nicosia-logo.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="265" height="116" src ="/wp-content/uploads/2024/07/nwu-logo-e1720977210840.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="265" height="114" src ="/wp-content/uploads/2024/07/ostrav-logo-e1720977352793.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="267" height="116" src ="/wp-content/uploads/2024/07/kenyata-logo-e1720977482430.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="267" height="116" src ="/wp-content/uploads/2024/07/iulm-logo-e1720977559152.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="266" height="117" src ="/wp-content/uploads/2024/07/n-logo-e1720977648397.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="267" height="116" src ="/wp-content/uploads/2024/07/aabs-e1720977770217.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="267" height="116" src ="/wp-content/uploads/2024/07/aabs-e1720977770217.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="269" height="119" src ="/wp-content/uploads/2024/07/dominion-logo-e1720977912777.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+											</div>
+		</div>
+								</div>
+											<div class="swiper-slide" role="group" aria-roledescription="slide">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						<img width="269" height="119" src ="/wp-content/uploads/2024/07/dominion-logo-e1720977912777.png" width = "250 height = "200"/>					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+									<div class="elementor-testimonial__image">
+						<img class="swiper-lazy" data-src="https://uok.ac.rw/wp-content/uploads/2025/04/Untitled-design6.png" alt="">
+													<div class="swiper-lazy-preloader"></div>
+											</div>
+											</div>
+		</div>
+								</div>
+									</div>
+																					</div>
+				</div>
+								</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-86ac540 e-flex e-con-boxed e-con e-parent" data-id="86ac540" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ddf9de9 elementor-widget elementor-widget-heading" data-id="ddf9de9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Our Students' Experience</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-019f310 e-con-full e-flex e-con e-child" data-id="019f310" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-277d32b e-grid e-con-full e-con e-child" data-id="277d32b" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-258c769 elementor-widget elementor-widget-video" data-id="258c769" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=FDVzk3otZQU&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-35c1101 elementor-widget elementor-widget-video" data-id="35c1101" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/3adhaPiRuOM?feature=shared&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f72a0a8 elementor-widget elementor-widget-video" data-id="f72a0a8" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/KLywyv_j77A?feature=shared&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-051cced e-flex e-con-boxed e-con e-parent" data-id="051cced" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-30bee1f e-con-full e-flex e-con e-child" data-id="30bee1f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-e19bb3a e-con-full e-flex e-con e-child" data-id="e19bb3a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-d845e21 elementor-widget elementor-widget-heading" data-id="d845e21" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Ready to Apply?</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cba405c elementor-widget elementor-widget-text-editor" data-id="cba405c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Have you decided to apply &#8211; great! Here’s what you will need to know</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-0758294 elementor-widget elementor-widget-button" data-id="0758294" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://uok.ac.rw/admissions-overview/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Learn more about getting in</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-47b0f21 e-con-full jedv-enabled--yes e-flex e-con e-child" data-id="47b0f21" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-8c8bc51 e-flex e-con-boxed e-con e-child" data-id="8c8bc51" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		
+		
+			</div>
+
+	
+</main>
+
+			<div data-elementor-type="footer" data-elementor-id="1031" class="elementor elementor-1031 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-5bbfc07 e-con-full e-flex e-con e-parent" data-id="5bbfc07" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-315d9b2 e-flex e-con-boxed e-con e-child" data-id="315d9b2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-e517256 e-con-full elementor-hidden-tablet e-flex e-con e-child" data-id="e517256" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-c168142 e-con-full e-flex e-con e-child" data-id="c168142" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-895d675 elementor-widget elementor-widget-heading" data-id="895d675" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Get in touch</h2>				</div>
+				</div>
+		<div class="elementor-element elementor-element-b7426df e-con-full e-flex e-con e-child" data-id="b7426df" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-acc2c72 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="acc2c72" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Kigali Main Campus</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-fdb31bc link elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="fdb31bc" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="tel:+250788303386   ">
+
+											<span class="elementor-icon-list-text">+250788303386   </span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3c5a62d link elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3c5a62d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="tel:+250789009221 ">
+
+											<span class="elementor-icon-list-text">+250789009221</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8bf8449 e-con-full e-flex e-con e-child" data-id="8bf8449" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-705b118 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="705b118" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Musanze Campus</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e7cb4e3 link elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e7cb4e3" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="tel:+250788359336">
+
+											<span class="elementor-icon-list-text">+250788359336</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e24e26e link elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="e24e26e" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="tel:+250788669642">
+
+											<span class="elementor-icon-list-text">+250788669642</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-772f70e e-con-full e-flex e-con e-child" data-id="772f70e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-8fe5723 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8fe5723" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">General Enquiries</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6ed5c12 link elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6ed5c12" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="mailto:info@uok.ac.rw" target="_blank">
+
+											<span class="elementor-icon-list-text">info@uok.ac.rw</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f4e10c2 e-con-full e-flex e-con e-child" data-id="f4e10c2" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-5198199 e-grid e-con-boxed e-con e-child" data-id="5198199" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3289d72 e-flex e-con-boxed e-con e-child" data-id="3289d72" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d513c36 elementor-widget elementor-widget-heading" data-id="d513c36" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">About UoK</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4b425d5 elementor-list-item-link-inline nav-item elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="4b425d5" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/our-story/">
+
+											<span class="elementor-icon-list-text">Our story</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/give-to-university-of-kigali/">
+
+											<span class="elementor-icon-list-text">Donate</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/our-campuses/">
+
+											<span class="elementor-icon-list-text">Campuses</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/vacancies/">
+
+											<span class="elementor-icon-list-text">Vacancies</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/contact-us/">
+
+											<span class="elementor-icon-list-text">Contact Us</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-64ee9ff e-flex e-con-boxed e-con e-child" data-id="64ee9ff" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1ea36a6 elementor-widget elementor-widget-heading" data-id="1ea36a6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Admissions</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-bf6ff98 elementor-list-item-link-inline nav-item elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="bf6ff98" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/how-to-apply/">
+
+											<span class="elementor-icon-list-text">How to Apply</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/fees-and-payments/">
+
+											<span class="elementor-icon-list-text">Fees and Payments</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/admission-requirements/">
+
+											<span class="elementor-icon-list-text">Admission Requirements</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/frequently-asked-questions/">
+
+											<span class="elementor-icon-list-text">FAQs</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8b42ba5 e-flex e-con-boxed e-con e-child" data-id="8b42ba5" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-243dfc2 elementor-widget elementor-widget-heading" data-id="243dfc2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Programs</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a418c21 elementor-list-item-link-inline nav-item elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="a418c21" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/program-category/undergraduate-programs/">
+
+											<span class="elementor-icon-list-text">Undergraduate Programs</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/program-category/graduate-programs/">
+
+											<span class="elementor-icon-list-text">Graduate Programs</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/program-category/professional-programmes/">
+
+											<span class="elementor-icon-list-text">Professional courses</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/program-category/short-courses/">
+
+											<span class="elementor-icon-list-text">Short courses</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0221130 e-con-full e-flex e-con e-child" data-id="0221130" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-2eec9d1 elementor-widget elementor-widget-heading" data-id="2eec9d1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Schools</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d03fa7f elementor-list-item-link-inline nav-item elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="d03fa7f" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-business-management-and-economics">
+
+											<span class="elementor-icon-list-text">School of Business Management and Economics</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-computing-and-information-technology">
+
+											<span class="elementor-icon-list-text">School of Computing and Information Technology</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-education">
+
+											<span class="elementor-icon-list-text">School of Education</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-law">
+
+											<span class="elementor-icon-list-text">School of Law</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=graduate-school">
+
+											<span class="elementor-icon-list-text">Graduate School</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://uok.ac.rw/?taxonomy=academic-schools&#038;term=school-of-professional-and-executive-programmes">
+
+											<span class="elementor-icon-list-text">School of Professional and Executive Programmes</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a8d83ca e-con-full e-flex e-con e-child" data-id="a8d83ca" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-faafe50 e-con-full e-flex e-con e-child" data-id="faafe50" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-66d61c6 elementor-widget__width-inherit elementor-widget elementor-widget-heading" data-id="66d61c6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Follow Our Social Networks</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-30f0907 elementor-shape-circle e-grid-align-mobile-left elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="30f0907" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-1d4a65e" href="https://www.facebook.com/universityofkigaliUOK" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<svg class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-x-twitter elementor-repeater-item-bae079f" href="https://x.com/UnivOfKigali?mx=2" target="_blank">
+						<span class="elementor-screen-only">X-twitter</span>
+						<svg class="e-font-icon-svg e-fab-x-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d86c06f" href="https://www.youtube.com/@universityofkigali-uok7543" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<svg class="e-font-icon-svg e-fab-youtube" viewBox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-a60af5c" href="https://www.linkedin.com/school/university-of-kigali/mycompany/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<svg class="e-font-icon-svg e-fab-linkedin" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-2a4a978" href="https://www.instagram.com/univ_of_kigali/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<svg class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-55dd517 e-con-full e-flex e-con e-child" data-id="55dd517" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-765fdb5 e-con-full e-flex e-con e-child" data-id="765fdb5" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-9079016 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="9079016" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Be the first to get UoK Updates</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-531f15e e-con-full e-flex e-con e-child" data-id="531f15e" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-3ed9179 elementor-widget elementor-widget-jet-subscribe-form" data-id="3ed9179" data-element_type="widget" data-widget_type="jet-subscribe-form.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-jet-subscribe-form jet-elements"><div class="jet-subscribe-form jet-subscribe-form--inline-layout" data-settings="{&quot;redirect&quot;:false,&quot;redirect_url&quot;:&quot;#&quot;,&quot;use_target_list_id&quot;:false,&quot;target_list_id&quot;:&quot;&quot;}">
+	<form method="POST" action="#" class="jet-subscribe-form__form">
+		<div class="jet-subscribe-form__input-group">
+			<div class="jet-subscribe-form__fields">
+				<input class="jet-subscribe-form__input jet-subscribe-form__mail-field" type="email" name="email" placeholder="Enter email address" data-instance-data="[]"></div>
+			<a class="jet-subscribe-form__submit elementor-button elementor-size-md" href="#"><span class="jet-subscribe-form__submit-text">Subscribe</span></a>		</div>
+		<div class="jet-subscribe-form__message"><div class="jet-subscribe-form__message-inner"><span></span></div></div>
+	</form>
+</div>
+</div>				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4134b0c e-con-full e-flex e-con e-child" data-id="4134b0c" data-element_type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+				<div class="elementor-element elementor-element-d555824 elementor-widget elementor-widget-heading" data-id="d555824" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Copyright © 2024 University Of Kigali. All Rights Reserved</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-db78809 elementor-widget elementor-widget-heading" data-id="db78809" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">Privacy Policy</h6>				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		
+        
+                <div  id="wp-chatbot-chat-container" class="floatingbot_delay  wp-chatbot-mobile-full-screen  qcchatbot-template-00" style="display:none">
+
+            <div  id="wp-chatbot-integration-container">
+
+                <div  class="wp-chatbot-integration-button-container">
+                                                            					
+					
+                    					
+										
+					
+                    
+                                                            
+                </div>
+            </div>
+            <div  id="wp-chatbot-ball-container" class="wp-chatbot-template-01" aria-haspopup aria-live="polite" aria-expanded="false">
+    	<div  class="wpbot-saas-live-chat">
+  
+	</div>
+    <div  class="wp-chatbot-container">
+
+                <!--        wp-chatbot-product-container-->
+        <div id="wp-chatbot-board-container" class="wp-chatbot-board-container">
+            
+            <div class="wp-chatbot-header">
+                                <div id="wp-chatbot-desktop-reload" title="reset"><i class="fa fa-refresh" aria-hidden="true"></i></div>
+             
+                <div id="wp-chatbot-desktop-close" title="reset"><i class="fa fa-times" aria-hidden="true"></i></div>
+                                            </div>
+            
+            <!--wp-chatbot-header-->
+            <div class="wp-chatbot-ball-inner wp-chatbot-content">
+                <!-- only show on Mobile app -->
+                                <div class="wp-chatbot-messages-wrapper">
+                    <ul id="wp-chatbot-messages-container" class="wp-chatbot-messages-container">
+                    </ul>
+                </div>
+                            </div>
+            <div class="wp-chatbot-footer">
+                <div id="wp-chatbot-editor-container" class="wp-chatbot-editor-container">
+                <label for="wp-chatbot-editor">Type your Message</label>   
+                    <input id="wp-chatbot-editor" class="wp-chatbot-editor" required
+                           placeholder="Send a message."
+                    >
+                                        <button type="button" id="wp-chatbot-send-message"
+                            class="wp-chatbot-button"><i class="fa fa-paper-plane" aria-hidden="true"></i>send</button>
+                   
+                </div>
+                <!--wp-chatbot-editor-container-->
+                                <!--wp-chatbot-tab-nav-->
+            </div>
+            <!--wp-chatbot-footer-->
+        </div>
+        <!--        wp-chatbot-board-container-->
+    </div>
+</div>
+                                             
+                <div id="wp-chatbot-notification-container" class="wp-chatbot-notification-container " >
+                    <div  class="wp-chatbot-notification-controller"> <span class="wp-chatbot-notification-close">
+      X      </span></div>
+                                        
+                    <div  class="wp-chatbot-notification-agent-profile">
+                                                <div class="wp-chatbot-notification-widget-avatar" ><img width="100" height="100"
+                                    src="https://uok.ac.rw/wp-content/uploads/2025/04/agent-icon.svg" alt=""></div>
+                        <div class="wp-chatbot-notification-welcome">Welcome to <strong></strong></div>
+                        
+                    </div>
+                    					
+                    <div  class="wp-chatbot-notification-message">Ask a question</div>
+                                                                            </div>
+                        <!--wp-chatbot-board-container-->
+            <div  id="wp-chatbot-ball" class="">
+                <button alt="Click to Open or Close the chat window" class="wp-chatbot-ball" title="Chat with us!" aria-label="Click to open or close the chatbot">
+                    <div class="wp-chatbot-ball-animator wp-chatbot-ball-animation-switch"></div>
+                                        <img width="36" height="36" src="https://uok.ac.rw/wp-content/uploads/2025/04/robot-icon.svg"
+                         alt="wpChatIcon" qcld_agent="https://uok.ac.rw/wp-content/uploads/2025/04/robot-icon.svg">
+                    
+                </button>
+            </div>
+
+            
+                        <!--container-->
+            <!--wp-chatbot-ball-wrapper-->
+        </div>
+		            
+    <style type="text/css">.wp-chatbot-tab-nav ul li a[data-option="chat"] {
+        background-position: center center !important;
+        background: url(https://uok.ac.rw/wp-content/uploads/2025/04/ic-round-person-2-1.svg) no-repeat !important;
+        background-size: cover !important;
+    }</style>
+	
+<!-- The Modal -->
+<div  id="qcwpbotModal" class="qcwpbotmodal" style="display:none">
+  <!-- The Close Button -->
+  <span class="qcwpbotclose">&times;</span>
+  <!-- Modal Content (The Image) -->
+  <img class="qcwpbotmodal-content" id="qcwpbotimg01" alt="wpbotmodal content">
+</div>
+<div  id="bottooltip">
+  <span></span>
+  <div ></div>
+</div>
+<style type="text/css">
+#bottooltip{
+  border-radius: 2px;
+  color: black;
+  display: none;
+  padding: 5px 10px;
+  position: fixed;
+  
+  background-color: white;
+  -ms-filter    : "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=2, Color='#444')";
+    filter        : "progid:DXImageTransform.Microsoft.Dropshadow(OffX=0, OffY=2, Color='#444')";
+  -webkit-filter: drop-shadow(0px 2px 5px rgba(130,130,130,1));
+    filter        : drop-shadow(0px 2px 5px rgba(130,130,130,1));
+    z-index: 99;
+	max-width: 150px;
+}
+
+#bottooltip > span{
+  background-color: white;
+  display: inline-block;
+  height: 8px;
+  position: absolute;
+  transform: rotate(45deg);
+  width: 8px;
+}
+
+#bottooltip > div{
+  font-size: 12px;
+}
+</style>
+					<script type="text/x-template" id="mobile-menu-item-template"><li
+	:id="'jet-mobile-menu-item-'+itemDataObject.itemId"
+	:class="itemClasses"
+>
+	<div
+		class="jet-mobile-menu__item-inner"
+		tabindex="0"
+		:aria-label="itemDataObject.name"
+        aria-expanded="false"
+		v-on:click="itemSubHandler"
+		v-on:keyup.enter="itemSubHandler"
+	>
+		<a
+			:class="itemLinkClasses"
+			:href="itemDataObject.url"
+			:rel="itemDataObject.xfn"
+			:title="itemDataObject.attrTitle"
+			:target="itemDataObject.target"
+		>
+			<div class="jet-menu-item-wrapper">
+				<div
+					class="jet-menu-icon"
+					v-if="isIconVisible"
+					v-html="itemIconHtml"
+				></div>
+				<div class="jet-menu-name">
+					<span
+						class="jet-menu-label"
+						v-if="isLabelVisible"
+						v-html="itemDataObject.name"
+					></span>
+					<small
+						class="jet-menu-desc"
+						v-if="isDescVisible"
+						v-html="itemDataObject.description"
+					></small>
+				</div>
+				<div
+					class="jet-menu-badge"
+					v-if="isBadgeVisible"
+				>
+					<div class="jet-menu-badge__inner" v-html="itemDataObject.badgeContent"></div>
+				</div>
+			</div>
+		</a>
+		<span
+			class="jet-dropdown-arrow"
+			v-if="isSub && !templateLoadStatus"
+			v-html="dropdownIconHtml"
+			v-on:click="markerSubHandler"
+		>
+		</span>
+		<div
+			class="jet-mobile-menu__template-loader"
+			v-if="templateLoadStatus"
+		>
+			<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="24px" height="25px" viewBox="0 0 128 128" xml:space="preserve">
+				<g>
+					<linearGradient id="linear-gradient">
+						<stop offset="0%" :stop-color="loaderColor" stop-opacity="0"/>
+						<stop offset="100%" :stop-color="loaderColor" stop-opacity="1"/>
+					</linearGradient>
+				<path d="M63.85 0A63.85 63.85 0 1 1 0 63.85 63.85 63.85 0 0 1 63.85 0zm.65 19.5a44 44 0 1 1-44 44 44 44 0 0 1 44-44z" fill="url(#linear-gradient)" fill-rule="evenodd"/>
+				<animateTransform attributeName="transform" type="rotate" from="0 64 64" to="360 64 64" dur="1080ms" repeatCount="indefinite"></animateTransform>
+				</g>
+			</svg>
+		</div>
+	</div>
+
+	<transition name="menu-container-expand-animation">
+		<mobile-menu-list
+			v-if="isDropdownLayout && subDropdownVisible"
+			:depth="depth+1"
+			:children-object="itemDataObject.children"
+		></mobile-menu-list>
+	</transition>
+
+</li>
+					</script>					<script type="text/x-template" id="mobile-menu-list-template"><div
+	class="jet-mobile-menu__list"
+	role="navigation"
+>
+	<ul class="jet-mobile-menu__items">
+		<mobile-menu-item
+			v-for="(item, index) in childrenObject"
+			:key="item.id"
+			:item-data-object="item"
+			:depth="depth"
+		></mobile-menu-item>
+	</ul>
+</div>
+					</script>					<script type="text/x-template" id="mobile-menu-template"><div
+	:class="instanceClass"
+	v-on:keyup.esc="escapeKeyHandler"
+>
+	<div
+		class="jet-mobile-menu__toggle"
+		role="button"
+		ref="toggle"
+		tabindex="0"
+		aria-label="Open/Close Menu"
+        aria-expanded="false"
+		v-on:click="menuToggle"
+		v-on:keyup.enter="menuToggle"
+	>
+		<div
+			class="jet-mobile-menu__template-loader"
+			v-if="toggleLoaderVisible"
+		>
+			<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" width="24px" height="25px" viewBox="0 0 128 128" xml:space="preserve">
+				<g>
+					<linearGradient id="linear-gradient">
+						<stop offset="0%" :stop-color="loaderColor" stop-opacity="0"/>
+						<stop offset="100%" :stop-color="loaderColor" stop-opacity="1"/>
+					</linearGradient>
+				<path d="M63.85 0A63.85 63.85 0 1 1 0 63.85 63.85 63.85 0 0 1 63.85 0zm.65 19.5a44 44 0 1 1-44 44 44 44 0 0 1 44-44z" fill="url(#linear-gradient)" fill-rule="evenodd"/>
+				<animateTransform attributeName="transform" type="rotate" from="0 64 64" to="360 64 64" dur="1080ms" repeatCount="indefinite"></animateTransform>
+				</g>
+			</svg>
+		</div>
+
+		<div
+			class="jet-mobile-menu__toggle-icon"
+			v-if="!menuOpen && !toggleLoaderVisible"
+			v-html="toggleClosedIcon"
+		></div>
+		<div
+			class="jet-mobile-menu__toggle-icon"
+			v-if="menuOpen && !toggleLoaderVisible"
+			v-html="toggleOpenedIcon"
+		></div>
+		<span
+			class="jet-mobile-menu__toggle-text"
+			v-if="toggleText"
+			v-html="toggleText"
+		></span>
+
+	</div>
+
+	<transition name="cover-animation">
+		<div
+			class="jet-mobile-menu-cover"
+			v-if="menuContainerVisible && coverVisible"
+			v-on:click="closeMenu"
+		></div>
+	</transition>
+
+	<transition :name="showAnimation">
+		<div
+			class="jet-mobile-menu__container"
+			v-if="menuContainerVisible"
+		>
+			<div
+				class="jet-mobile-menu__container-inner"
+			>
+				<div
+					class="jet-mobile-menu__header-template"
+					v-if="headerTemplateVisible"
+				>
+					<div
+						class="jet-mobile-menu__header-template-content"
+						ref="header-template-content"
+						v-html="headerContent"
+					></div>
+				</div>
+
+				<div
+					class="jet-mobile-menu__controls"
+				>
+					<div
+						class="jet-mobile-menu__breadcrumbs"
+						v-if="isBreadcrumbs"
+					>
+						<div
+							class="jet-mobile-menu__breadcrumb"
+							v-for="(item, index) in breadcrumbsPathData"
+							:key="index"
+						>
+							<div
+								class="breadcrumb-label"
+								v-on:click="breadcrumbHandle(index+1)"
+								v-html="item"
+							></div>
+							<div
+								class="breadcrumb-divider"
+								v-html="breadcrumbIcon"
+								v-if="(breadcrumbIcon && index !== breadcrumbsPathData.length-1)"
+							></div>
+						</div>
+					</div>
+					<div
+						class="jet-mobile-menu__back"
+						role="button"
+						ref="back"
+						tabindex="0"
+						aria-label="Close Menu"
+                        aria-expanded="false"
+						v-if="!isBack && isClose"
+						v-html="closeIcon"
+						v-on:click="menuToggle"
+						v-on:keyup.enter="menuToggle"
+					></div>
+					<div
+						class="jet-mobile-menu__back"
+						role="button"
+						ref="back"
+						tabindex="0"
+						aria-label="Back to Prev Items"
+                        aria-expanded="false"
+						v-if="isBack"
+						v-html="backIcon"
+						v-on:click="goBack"
+						v-on:keyup.enter="goBack"
+					></div>
+				</div>
+
+				<div
+					class="jet-mobile-menu__before-template"
+					v-if="beforeTemplateVisible"
+				>
+					<div
+						class="jet-mobile-menu__before-template-content"
+						ref="before-template-content"
+						v-html="beforeContent"
+					></div>
+				</div>
+
+				<div
+					class="jet-mobile-menu__body"
+				>
+					<transition :name="animation">
+						<mobile-menu-list
+							v-if="!templateVisible"
+							:key="depth"
+							:depth="depth"
+							:children-object="itemsList"
+						></mobile-menu-list>
+						<div
+							class="jet-mobile-menu__template"
+							ref="template-content"
+							v-if="templateVisible"
+						>
+							<div
+								class="jet-mobile-menu__template-content"
+								v-html="itemTemplateContent"
+							></div>
+						</div>
+					</transition>
+				</div>
+
+				<div
+					class="jet-mobile-menu__after-template"
+					v-if="afterTemplateVisible"
+				>
+					<div
+						class="jet-mobile-menu__after-template-content"
+						ref="after-template-content"
+						v-html="afterContent"
+					></div>
+				</div>
+
+			</div>
+		</div>
+	</transition>
+</div>
+					</script>			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/html" id="tmpl-jet-ajax-search-results-item">
+<div class="jet-ajax-search__results-item">
+	<a class="jet-ajax-search__item-link" href="{{{data.link}}}" target="{{{data.link_target_attr}}}">
+		{{{data.thumbnail}}}
+		<div class="jet-ajax-search__item-content-wrapper">
+			{{{data.before_title}}}
+			<div class="jet-ajax-search__item-title">{{{data.title}}}</div>
+			{{{data.after_title}}}
+			{{{data.before_content}}}
+			<div class="jet-ajax-search__item-content">{{{data.content}}}</div>
+			{{{data.after_content}}}
+			{{{data.rating}}}
+			{{{data.price}}}
+			{{{data.add_to_cart}}}
+		</div>
+	</a>
+</div>
+</script><script type="text/html" id="tmpl-jet-search-focus-suggestion-item">
+<div class="jet-search-suggestions__focus-area-item" tabindex="0" aria-label="{{{data.fullName}}}">
+	<div class="jet-search-suggestions__focus-area-item-title">{{{data.name}}}</div>
+</div>
+</script><script type="text/html" id="tmpl-jet-search-inline-suggestion-item">
+<div class="jet-search-suggestions__inline-area-item" tabindex="0" aria-label="{{{data.fullName}}}">
+	<div class="jet-search-suggestions__inline-area-item-title" >{{{data.name}}}</div>
+</div>
+</script><script type="text/html" id="tmpl-jet-ajax-search-inline-suggestion-item">
+<div class="jet-ajax-search__suggestions-inline-area-item" tabindex="0" aria-label="{{{data.fullName}}}">
+	<div class="jet-ajax-search__suggestions-inline-area-item-title" >{{{data.name}}}</div>
+</div>
+</script><script type="text/html" id="tmpl-jet-ajax-search-results-suggestion-item">
+<div class="jet-ajax-search__results-suggestions-area-item" tabindex="0" aria-label="{{{data.fullName}}}">
+	<div class="jet-ajax-search__results-suggestions-area-item-title">{{{data.name}}}</div>
+</div>
+</script><link rel='stylesheet' id='elementor-post-142-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-142.css?ver=1743699374' media='all' />
+<link rel='stylesheet' id='elementor-post-176-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-176.css?ver=1743699374' media='all' />
+<link rel='stylesheet' id='elementor-post-1132-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-1132.css?ver=1743699374' media='all' />
+<link rel='stylesheet' id='elementor-post-1672-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-1672.css?ver=1743699375' media='all' />
+<link rel='stylesheet' id='elementor-post-1819-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-1819.css?ver=1743699375' media='all' />
+<link rel='stylesheet' id='elementor-post-1415-css' href='https://uok.ac.rw/wp-content/uploads/elementor/css/post-1415.css?ver=1743699375' media='all' />
+<link rel='stylesheet' id='qcld-wp-chatbot-style-css' href='https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/templates/template-00/style.css?ver=13.5.7' media='screen' />
+<script src="https://uok.ac.rw/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src="https://uok.ac.rw/wp-includes/js/wp-util.min.js?ver=6.7.2" id="wp-util-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-search/assets/lib/chosen/chosen.jquery.min.js?ver=1.8.7" id="jquery-chosen-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-search/assets/lib/jet-plugins/jet-plugins.js?ver=1.0.0" id="jet-plugins-js"></script>
+<script id="jet-search-js-extra">
+var jetSearchSettings = {"rest_api_url":"https:\/\/uok.ac.rw\/wp-json\/jet-search\/v1\/search-posts","action":"jet_ajax_search","nonce":"b2bf5035a0","sumbitOnEnter":"1","ajaxSearchSuggestionsLimits":"20","ajaxurl":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","searchSuggestions":{"ajaxurl":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","get_suggestions_rest_api_url":"https:\/\/uok.ac.rw\/wp-json\/jet-search\/v1\/get-suggestions","add_suggestions_rest_api_url":"https:\/\/uok.ac.rw\/wp-json\/jet-search\/v1\/form-add-suggestion","get_action":"get_form_suggestions","add_action":"add_form_suggestion","nonce_rest":"af1a7caac3","nonce":"77a7fee1d6","use_session":false},"ajaxSearchPopularSuggestions":[]};
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-search/assets/js/jet-search.js?ver=3.5.7.1" id="jet-search-js"></script>
+<script id="rocket-browser-checker-js-after">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/uok.ac.rw","onHoverDelay":"100","rateThrottle":"3"};
+</script>
+<script id="rocket-preload-links-js-after">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script src="https://uok.ac.rw/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.1.1" id="hello-theme-frontend-js"></script>
+<script src="https://uok.ac.rw/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-menu/assets/public/lib/vue/vue.min.js?ver=2.6.11" id="jet-vue-js"></script>
+<script id="jet-menu-public-scripts-js-extra">
+var jetMenuPublicSettings = {"version":"2.4.9.1","ajaxUrl":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","isMobile":"false","getElementorTemplateApiUrl":"https:\/\/uok.ac.rw\/wp-json\/jet-menu-api\/v2\/get-elementor-template-content","getBlocksTemplateApiUrl":"https:\/\/uok.ac.rw\/wp-json\/jet-menu-api\/v2\/get-blocks-template-content","menuItemsApiUrl":"https:\/\/uok.ac.rw\/wp-json\/jet-menu-api\/v2\/get-menu-items","restNonce":"af1a7caac3","devMode":"false","wpmlLanguageCode":"","menuSettings":{"jetMenuRollUp":"true","jetMenuMouseleaveDelay":"500","jetMenuMegaWidthType":"container","jetMenuMegaWidthSelector":"","jetMenuMegaOpenSubType":"hover","jetMenuMegaAjax":""}};
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-menu/assets/public/js/jet-menu-public-scripts.js?ver=2.4.9.1" id="jet-menu-public-scripts-js"></script>
+<script id="jet-menu-public-scripts-js-after">
+function CxCSSCollector(){"use strict";var t,e=window.CxCollectedCSS;void 0!==e&&((t=document.createElement("style")).setAttribute("title",e.title),t.setAttribute("type",e.type),t.textContent=e.css,document.head.appendChild(t))}CxCSSCollector();
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-elements/assets/js/lib/anime-js/anime.min.js?ver=2.2.0" id="jet-anime-js-js"></script>
+<script id="jet-popup-frontend-js-extra">
+var jetPopupData = {"version":"2.0.12","ajax_url":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","isElementor":"true"};
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-popup/assets/js/jet-popup-frontend.js?ver=2.0.12" id="jet-popup-frontend-js"></script>
+<script src="https://uok.ac.rw/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-elements/assets/js/lib/slider-pro/jquery.sliderPro.min.js?ver=1.3.0" id="jet-slider-pro-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/js/jquery.slimscroll.min.js?ver=13.5.7" id="qcld-wp-chatbot-slimsqccrl-js-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/js/jquery.cookie.js?ver=13.5.7" id="qcld-wp-chatbot-qcquery-cake-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/js/jquery.magnific-popup.min.js?ver=13.5.7" id="qcld-wp-chatbot-magnifict-qcpopup-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/js/qcld-wp-chatbot-plugin.js?ver=13.5.7" id="qcld-wp-chatbot-plugin-js"></script>
+<script id="qcld-wp-chatbot-front-js-js-extra">
+var wp_chatbot_obj = {"wp_chatbot_position_x":"50","wp_chatbot_position_y":"50","wp_chatbot_position_mp_x":"50","wp_chatbot_position_mp_y":"50","enable_floating_icon":"1","wp_chatbot_position_in":"px","wp_chatbot_position_mp_in":"px","disable_icon_animation":"","delay_wp_chatbot_floating_icon":"100","delay_chat_window_open":"100","disable_wp_chatbot_history":"","delay_floating_notification_box":"100","disable_wp_chatbot_notification":"0","always_scroll_to_bottom":"","disable_featured_product":"","disable_product_search":"","disable_catalog":"","skip_wp_greetings":"","skip_wp_greetings_trigger_intent":"","init_trigger_intent":{"en_US":"FAQ"},"qcld_disable_start_menu":"","priority_openai_all":"","qcld_replace_start_menu":"","qcld_disable_repited_startmenu":"","show_menu_after_greetings":"1","disable_first_msg":"","ask_email_wp_greetings":"","ask_name_confirmation":"1","ask_phone_wp_greetings":"","enable_wp_chatbot_open_initial":"","wp_keep_chat_window_open":"","disable_order_status":"","disable_sale_product":"","open_product_detail":"","order_user":"","ajax_url":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","image_path":"https:\/\/uok.ac.rw\/wp-content\/plugins\/wpbot-pro-starter\/images\/","client_image":"https:\/\/uok.ac.rw\/wp-content\/uploads\/2025\/04\/ic-round-person-2-1.svg","yes":{"en_US":"YES"},"no":{"en_US":"NO"},"or":{"en_US":"OR"},"host":{"en_US":"University of Kigali"},"agent":{"en_US":"UoKie"},"agent_image":"custom-agent.png","agent_image_path":"https:\/\/uok.ac.rw\/wp-content\/uploads\/2025\/04\/agent-icon.svg","shopper_demo_name":{"en_US":"Amigo"},"shopper_call_you":{"en_US":"Ok, I will just call you"},"agent_join":{"en_US":["has joined the conversation"]},"welcome":{"en_US":["Welcome to","Glad to have you at"]},"welcome_back":{"en_US":["Welcome back","Good to see your again"]},"hi_there":{"en_US":["Hi There!"]},"asking_name":{"en_US":["May I know your name?","What should I call you?"]},"asking_emailaddress":{"en_US":["May i know your email %%username%%? so i can get back to you if needed."]},"got_email":{"en_US":["Thanks for sharing your email %%username%%!"]},"email_ignore":{"en_US":["No problem %%username%%, if you do not want to share your email address!"]},"asking_phone_gt":{"en_US":["May i know your phone number %%username%%? so i can get back to you if needed."]},"got_phone":{"en_US":["Thanks for sharing your phone number %%username%%!"]},"phone_ignore":{"en_US":["No problem %%username%%, if you do not want to share your phone number!"]},"i_understand":{"en_US":["I understand that your name is %%username%%. Is that correct?"]},"i_am":{"en_US":["I am","This is"]},"name_greeting":{"en_US":["Nice to meet you, %%username%%!"]},"wildcard_msg":{"en_US":["Hi %%username%%. I am here to find what you need. What are you looking for?"]},"empty_filter_msg":{"en_US":["Sorry, I did not understand you."]},"do_you_want_to_subscribe":{"en_US":["Do you want to subscribe to our newsletter?"]},"chatbot_file_upload_succ":"a:1:{s:5:\"en_US\";s:36:\"File has been uploaded successfully!\";}","qlcd_wp_chatbot_good_bye_text":{"en_US":"Ok Bye, See you soon!"},"qlcd_wp_chatbot_transcript_emailed":{"en_US":"Do you want the chat transcript to be emailed?"},"tvlyai_enabled":"0","chatbot_file_upload_fail":"a:1:{s:5:\"en_US\";s:26:\"Failed to upload the file.\";}","do_you_want_to_unsubscribe":{"en_US":["Do you want to unsubscribe from our newsletter?"]},"we_do_not_have_your_email":{"en_US":["We do not have your email in the ChatBot database."]},"you_have_successfully_unsubscribe":{"en_US":["You have successfully unsubscribed from our newsletter!"]},"is_typing":{"en_US":["is typing..."]},"send_a_msg":{"en_US":["Send a message."]},"viewed_products":{"en_US":["Recently viewed products"]},"shopping_cart":"","cart_updating":{"en_US":["Updating cart items ..."]},"cart_removing":{"en_US":["Removing cart items ..."]},"sys_key_help":{"en_US":"start"},"sys_key_product":{"en_US":"product"},"auto_hide_floating_button":"","sys_key_catalog":{"en_US":"catalog"},"sys_key_order":{"en_US":"order"},"sys_key_support":{"en_US":"faq"},"sys_key_reset":{"en_US":"reset"},"sys_goodbye_key":{"en_US":"goodbye, bye, see you soon, bye-bye, adieu, quit, stop chat, abort, stop, abort, so long"},"wbca_lg_operator_offline":"all operator is offline","sys_key_livechat":"livechat","help_welcome":{"en_US":["Welcome to Help Section."]},"tag_search_intent":["ChooseCoffee"],"back_to_start":{"en_US":["Back to Start"]},"help_msg":{"en_US":["<h3>Type and Hit Enter<\/h3>  1. <b>start<\/b> Get back to the main menu. <br> 2. <b>faq<\/b> for  FAQ. <br> 3. <b>reset<\/b> To clear chat history and start from the beginning.  4. <b>livechat<\/b>  To navigating into the livechat window. 5. <b>unsubscribe<\/b> to remove your email from our newsletter."]},"reset":{"en_US":["Do you want to clear our chat history and start over?"]},"wildcard_product":{"en_US":["Product Search"]},"wildcard_catalog":{"en_US":["Catalog"]},"featured_products":{"en_US":["Featured Products"]},"sale_products":{"en_US":["Products on  Sale"]},"wildcard_order":{"en_US":["Order Status"]},"wildcard_support":{"en_US":"FAQ"},"product_asking":{"en_US":["What are you shopping for?"]},"product_suggest":{"en_US":["You can browse our extensive catalog. Just pick a category from below:"]},"product_infinite":{"en_US":["Too many choices? Let's try another search term","I may have something else for you. Why not search again?"]},"product_success":{"en_US":["Great! We have these products for","Found these products for"]},"product_fail":{"en_US":["Oops! Nothing matches your criteria","Sorry, I found nothing"]},"support_welcome":{"en_US":["Welcome to FAQ Section"]},"typing_animation":"","site_search":{"en_US":"Site Search"},"wppt_post_types":"","livechat_label":"Livechat","email_subscription":{"en_US":"Email Subscription"},"str_categories":"a:1:{s:5:\"en_US\";s:14:\"STR Categories\";}","open_a_ticket":{"en_US":"Open a Ticket"},"ticket_url":"","unsubscribe":{"en_US":"Unsubscribe"},"send_us_email":{"en_US":"Send Us Email"},"leave_feedback":{"en_US":"Leave a Feedback"},"good_bye":{"en_US":"GoodBye"},"livechat":"","go_back_tooltip":{"en_US":["click to go back."]},"support_email":{"en_US":["Click me if you want to send us a email."]},"support_option_again":{"en_US":["You may choose an option from below."]},"asking_email":{"en_US":["Please provide your email address"]},"asking_search_keyword":{"en_US":["Hello #name!, Please enter your keyword for searching"]},"asking_msg":{"en_US":["Thank you for email address. Please write your message now."]},"support_phone":{"en_US":"Leave your number. We will call you back!"},"asking_phone":{"en_US":["Please provide your Phone number"]},"thank_for_phone":{"en_US":["Thank you for Phone number"]},"support_query":{"en_US":["What are the Admission Requirements for Undergraduate Programmes?","What is the Admission Process for Postgraduate Programmes?","How do I Apply to the University of Kigali?","What documents are required for the application process?","What are the application deadlines?","Is there an application fee?","What support services are available for students?"]},"custom_intent":[""],"custom_intent_label":[""],"custom_intent_email":["0"],"custom_menu":[""],"custom_menu_link":[""],"custom_menu_target":["0"],"custom_menu_type":["link"],"custom_menu_linktype":["link"],"simple_response_intent":[],"support_ans":{"en_US":["The University of Kigali requires prospective undergraduate students to have completed their secondary education with satisfactory grades. Specific requirements may vary depending on the programme of interest. Check the detailed\u00a0<a href=\"https:\/\/uok.ac.rw\/admission-requirements\/#undergraduate\">requirements<\/a>\u00a0for each programme.","For postgraduate programmes, applicants must hold an undergraduate degree from a recognised institution. The admission process generally includes submitting an application form, academic transcripts, a CV, and a statement of purpose. Specific programmes might have additional requirements\u00a0such as letters of recommendation or work experience\u200b.","<span style=\"font-weight: 400;\">We accept applications through our <a href=\"https:\/\/apply.uok.ac.rw\/\">online application portal <\/a><\/span>","Applicants are typically required to submit the following documents:\r\n<ul>\r\n \t<li aria-level=\"1\">Completed application form<\/li>\r\n \t<li aria-level=\"1\">Copy of secondary school certificate or equivalent<\/li>\r\n \t<li aria-level=\"1\">Academic transcripts<\/li>\r\n \t<li aria-level=\"1\">Identification documents (e.g., national ID or passport)<\/li>\r\n \t<li aria-level=\"1\">Recent passport-sized photographs.<\/li>\r\n \t<li aria-level=\"1\">Additional documents may be required based on the specific programme applied for\u200b.<\/li>\r\n<\/ul>","We have three intakes in a year \u2013 January, May and September. Admissions are open every trimester. You will be offered admission to the next available intake.","No, there is no application fee. A non-refundable admission fee must be paid after you are admitted to UoK.","The University of Kigali provides various support services, including academic advising, library services, sports facilities, and career counselling. For more detailed information, see our counselling services."]},"notification_interval":"5","notifications":{"en_US":["Ask a question"]},"exitintentpagewise":"","notification_intents":{"en_US":[""]},"order_welcome":{"en_US":["Welcome to Order status section!"]},"order_username_asking":{"en_US":["Please type your username?"]},"order_username_password":{"en_US":["Please type your password"]},"order_email":"","order_login":"","order_nonce":"a5c1eb3600","order_email_support":{"en_US":["Email our support center about your order."]},"email_fail":{"en_US":"Sorry! fail to send email"},"invalid_email":{"en_US":["Sorry, Email address is not valid! Please provide a valid email."]},"stop_words":"a,able,about,above,abst,accordance,according,accordingly,across,act,actually,added,adj,affected,affecting,affects,after,afterwards,again,against,ah,all,almost,alone,along,already,also,although,always,am,among,amongst,an,and,announce,another,any,anybody,anyhow,anymore,anyone,anything,anyway,anyways,anywhere,apparently,approximately,are,aren,arent,arise,around,as,aside,ask,asking,at,auth,available,away,awfully,b,back,be,became,because,become,becomes,becoming,been,before,beforehand,begin,beginning,beginnings,begins,behind,being,believe,below,beside,besides,between,beyond,biol,both,brief,briefly,but,by,c,ca,came,can,cannot,can't,cause,causes,certain,certainly,co,com,come,comes,contain,containing,contains,could,couldnt,d,date,did,didn't,different,do,does,doesn't,doing,done,don't,down,downwards,due,during,e,each,ed,edu,effect,eg,eight,eighty,either,else,elsewhere,end,ending,enough,especially,et,et-al,etc,even,ever,every,everybody,everyone,everything,everywhere,ex,except,f,far,few,ff,fifth,first,five,fix,followed,following,follows,for,former,formerly,forth,found,four,from,further,furthermore,g,gave,get,gets,getting,give,given,gives,giving,go,goes,gone,got,gotten,h,had,happens,hardly,has,hasn't,have,haven't,having,he,hed,hence,her,here,hereafter,hereby,herein,heres,hereupon,hers,herself,hes,hi,hid,him,himself,his,hither,home,how,howbeit,however,hundred,i,id,ie,if,i'll,im,immediate,immediately,importance,important,in,inc,indeed,index,information,instead,into,invention,inward,is,isn't,it,itd,it'll,its,itself,i've,j,just,k,keep,keeps,kept,kg,km,know,known,knows,l,largely,last,lately,later,latter,latterly,least,less,lest,let,lets,like,liked,likely,line,little,'ll,look,looking,looks,ltd,m,made,mainly,make,makes,many,may,maybe,me,mean,means,meantime,meanwhile,merely,mg,might,million,miss,ml,more,moreover,most,mostly,mr,mrs,much,mug,must,my,myself,n,na,name,namely,nay,nd,near,nearly,necessarily,necessary,need,needs,neither,never,nevertheless,new,next,nine,ninety,no,nobody,non,none,nonetheless,noone,nor,normally,nos,not,noted,nothing,now,nowhere,o,obtain,obtained,obviously,of,off,often,oh,ok,okay,old,omitted,on,once,one,ones,only,onto,or,ord,other,others,otherwise,ought,our,ours,ourselves,out,outside,over,overall,owing,own,p,page,pages,part,particular,particularly,past,per,perhaps,placed,please,plus,poorly,possible,possibly,potentially,pp,predominantly,present,previously,primarily,probably,promptly,proud,provides,put,q,que,quickly,quite,qv,r,ran,rather,rd,re,readily,really,recent,recently,ref,refs,regarding,regardless,regards,related,relatively,research,respectively,resulted,resulting,results,right,run,s,said,same,saw,say,saying,says,sec,section,see,seeing,seem,seemed,seeming,seems,seen,self,selves,sent,seven,several,shall,she,shed,she'll,shes,should,shouldn't,show,showed,shown,showns,shows,significant,significantly,similar,similarly,since,six,slightly,so,some,somebody,somehow,someone,somethan,something,sometime,sometimes,somewhat,somewhere,soon,sorry,specifically,specified,specify,specifying,still,stop,strongly,sub,substantially,successfully,such,sufficiently,suggest,sup,sure,t,take,taken,taking,tell,tends,th,than,thank,thanks,thanx,that,that'll,thats,that've,the,their,theirs,them,themselves,then,thence,there,thereafter,thereby,thered,therefore,therein,there'll,thereof,therere,theres,thereto,thereupon,there've,these,they,theyd,they'll,theyre,they've,think,this,those,thou,though,thoughh,thousand,throug,through,throughout,thru,thus,til,tip,to,together,too,took,toward,towards,tried,tries,truly,try,trying,ts,twice,two,u,un,under,unfortunately,unless,unlike,unlikely,until,unto,up,upon,ups,us,use,used,useful,usefully,usefulness,uses,using,usually,v,value,various,'ve,very,via,viz,vol,vols,vs,w,want,wants,was,wasnt,way,we,wed,welcome,we'll,went,were,werent,we've,what,whatever,what'll,whats,when,whence,whenever,where,whereafter,whereas,whereby,wherein,wheres,whereupon,wherever,whether,which,while,whim,whither,who,whod,whoever,whole,who'll,whom,whomever,whos,whose,why,widely,willing,wish,with,within,without,wont,words,world,would,wouldnt,www,x,y,yes,yet,you,youd,you'll,your,youre,yours,yourself,yourselves,you've,z,zero","enable_messenger":"","messenger_label":{"en_US":["Chat with Us on Facebook Messenger"]},"fb_page_id":"","enable_skype":"","enable_whats":"","whats_label":{"en_US":["Chat with Us on WhatsApp"]},"whats_num":"","ret_greet":"a:1:{s:5:\"en_US\";s:5:\"Hello\";}","enable_exit_intent":"","exit_intent_msg":"","exit_intent_custom_intent":"","exit_intent_bargain_pro_single_page":"","exit_intent_bargain_is_product_page":"","exit_intent_bargain_msg":"","exit_intent_email":"","exit_intent_once":"","enable_scroll_open":"","scroll_open_msg":"","scroll_open_custom_intent":"","scroll_open_email":"","scroll_open_percent":"50","scroll_open_once":"","enable_auto_open":"","auto_open_msg":"","auto_open_custom_intent":"","auto_open_email":"","auto_open_time":"10","auto_open_once":"","proactive_bg_color":"#ffffff","disable_feedback":"","disable_leave_feedback":"1","disable_good_bye":"","disable_email_transcript":"1","disable_sitesearch":"1","no_result":{"en_US":["Sorry, No result found!"]},"did_you_mean":{"en_US":["Did you mean?"]},"email_subscription_success":{"en_US":["You have successfully subscribed to our newsletter. Thank you."]},"email_already_subscribe":{"en_US":["You have already subscribed to our newsletter."]},"disable_faq":"","disable_email_subscription":"","disable_voice_message":"","disable_str_categories":"1","disable_open_ticket":"","disable_livechat":"","feedback_label":{"en_US":["Send Feedback"]},"enable_meta_title":"","meta_label":"a:1:{s:5:\"en_US\";s:13:\"*New Messages\";}","phone_number":"","livechatlink":"","livechat_button_label":"Live Chat","loading":{"en_US":"Loading..."},"call_gen":"1","call_sup":"","enable_ret_sound":"","enable_ret_user_show":"","enable_inactive_time_show":"","ret_inactive_user_once":"","mobile_full_screen":"1","enable_all_search":"","chatbot_content":"","enable_gdpr":"","wpbot_search_result_number":"5","gdpr_text":{"en_US":"We will never spam you! You can read our Privacy Policy here."},"no_result_attempt_message":{"en_US":""},"no_result_attempt_count":"3","inactive_time":"300","checkout_msg":"a:1:{s:5:\"en_US\";s:63:\"You have products in shopping cart, please complete your order.\";}","ai_df_enable":"","df_api_version":"v2","ai_df_token":"","df_defualt_reply":{"en_US":""},"df_agent_lan":{"en_US":""},"df_project_id":{"en_US":""},"df_project_key":{"en_US":""},"sound_bot_message":"","clear_cache":"0","template":"template-00","is_operator_online":"0","disable_livechat_operator_offline":"","is_livechat_active":"","imgurl":"https:\/\/uok.ac.rw\/wp-content\/plugins\/wpbot-pro-starter\/images\/","hello":{"en_US":"Hello"},"ajax_nonce":"39e30b6e28","exitintent_all_page":"on","exitintent_pages":[],"exit_pagewise":"","trigger_url_exit":"","trigger_url_scroll":"","trigger_url_auto":"","scrollintent_pages":"","scrollintent_all_page":"on","scroll_pagewise":"","autointent_pages":"","autointent_all_page":"on","auto_pagewise":"","notification_navigation":"","current_pageid":"17","disable_repeatative":"","botpreloadingtime":"100","start_menu":{"en_US":"<span class=\"qcld-chatbot-wildcard ui-draggable ui-draggable-handle qc_draggable_item_remove ui-sortable-handle\" data-wildcart=\"support\">FAQ<\/span>                          <span class=\"qcld-chatbot-default wpbo_live_chat ui-draggable ui-draggable-handle qc_draggable_item_remove ui-sortable-handle\">Live Chat<\/span>                          <span class=\"qcld-chatbot-suggest-email ui-draggable ui-draggable-handle qc_draggable_item_remove\">Send Us Email<\/span>"},"forms":[],"form_commands":[],"form_ids":[],"is_formbuilder_active":"","is_chatsession_active":"1","open_livechat_window_first":"","livechat_autopopulation":"0","is_chat_session_active":"1","disable_auto_focus":"","open_ai_enable":"0","woocommerce":"","your_offer_price":"Please, tell me what is your offer price.","your_offer_price_again":"It seems like you have not provided any offer amount. Please give me a number!","your_low_price_alert":"Your offered price {offer price} is too low for us.","your_too_low_price_alert":"The best we can do for you is {minimum amount}. Do you accept?","map_talk_to_boss":"Please tell me your final price. I will talk to my boss.","map_get_email_address":"Please tell me your email address so I can get back to you.","map_thanks_test":"Thank you.","map_acceptable_price":"Your offered price {offer price} is acceptable.","map_checkout_now_button_text":"Checkout Now","map_get_checkout_url":"","map_get_ajax_nonce":"2aa04f37bd","currency_symbol":"","order_status_without_login":"0","order_email_asking":"","order_id_asking":"","is_woowbot":"0","df_cardlink_open":"0","qc_site_search_priority":"0","is_mobile":"","disable_youtube_parse":"","language":"en_US","default_language":"en_US","start_menu_installed":"","qcld_bargain_allowed_times":"","voice_addon":"","bot_read":"","stt_service":"","entities":{"default":{"@name":{"entity":"@name"},"@age":{"entity":"@age"},"@number":{"entity":"@number"},"@date":{"entity":"@date"},"@date-of-birth":{"entity":"@date-of-birth"},"@place":{"entity":"@place"},"@day":{"entity":"@day"},"@email":{"entity":"@email"},"@color":{"entity":"@color"}}},"current_user_id":"0"};
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/wpbot-pro-starter/js/qcld-wp-chatbot-front.js?ver=13.5.7" id="qcld-wp-chatbot-front-js-js"></script>
+<script id="jet-engine-frontend-js-extra">
+var JetEngineSettings = {"ajaxurl":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","ajaxlisting":"https:\/\/uok.ac.rw\/?nocache=1744457029","restNonce":"af1a7caac3","hoverActionTimeout":"400","post_id":"17"};
+</script>
+<script id="jet-engine-frontend-js-before">
+			jQuery( window ).on( 'jet-engine/frontend/loaded', function() {
+				window.JetPlugins.hooks.addFilter(
+					'jet-popup.show-popup.data',
+					'JetEngine.popupData',
+					function( popupData, popup, triggeredBy ) {
+
+						if ( ! triggeredBy ) {
+							return popupData;
+						}
+
+						if ( ! triggeredBy.data( 'popupIsJetEngine' ) ) {
+							return popupData;
+						}
+
+						var wrapper = triggeredBy.closest( '.jet-listing-grid__items' );
+
+						if ( wrapper.length && wrapper.data( 'cctSlug' ) ) {
+							popupData['cctSlug'] = wrapper.data( 'cctSlug' );
+						}
+
+						return popupData;
+					}
+				);
+			} );
+		
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-engine/assets/js/frontend.js?ver=3.6.6" id="jet-engine-frontend-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.28.2" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.28.3" id="elementor-webpack-runtime-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.28.3" id="elementor-frontend-modules-js"></script>
+<script src="https://uok.ac.rw/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","nonce":"ff21ec6c22","urls":{"assets":"https:\/\/uok.ac.rw\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/uok.ac.rw\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/uok.ac.rw\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.28.2" id="elementor-pro-frontend-js"></script>
+<script src="https://uok.ac.rw/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.28.3","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_local_google_fonts":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"editor_v2":true,"home_screen":true,"mega-menu":true},"urls":{"assets":"https:\/\/uok.ac.rw\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/uok.ac.rw\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"d7d13e1ae5"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":17,"title":"University%20of%20Kigali%20-%20Your%20Gateway%20to%20Excellence%20and%20Innovation%21","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.28.3" id="elementor-frontend-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.28.2" id="pro-elements-handlers-js"></script>
+<script id="jet-elements-js-extra">
+var jetElements = {"ajaxUrl":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","isMobile":"false","templateApiUrl":"https:\/\/uok.ac.rw\/wp-json\/jet-elements-api\/v1\/elementor-template","devMode":"false","messages":{"invalidMail":"Please specify a valid e-mail"}};
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.7.5" id="jet-elements-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-menu/includes/elementor/assets/public/js/widgets-scripts.js?ver=2.4.9.1" id="jet-menu-elementor-widgets-scripts-js"></script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-popup/includes/elementor/assets/js/jet-popup-elementor-frontend.js?ver=2.0.12" id="jet-popup-elementor-frontend-js"></script>
+<script id="jet-tabs-frontend-js-extra">
+var JetTabsSettings = {"ajaxurl":"https:\/\/uok.ac.rw\/wp-admin\/admin-ajax.php","isMobile":"false","templateApiUrl":"https:\/\/uok.ac.rw\/wp-json\/jet-tabs-api\/v1\/elementor-template","devMode":"false","isSelfRequest":""};
+</script>
+<script src="https://uok.ac.rw/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.2.8" id="jet-tabs-frontend-js"></script>
+
+</body>
+</html>
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1744457030 -->
